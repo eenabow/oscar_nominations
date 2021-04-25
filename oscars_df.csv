@@ -1,0 +1,1184 @@
+,movie,duration,metascore,gross,awards_nominations,golden_globes_nominated,oscar_nominated
+0,Kate & Leopold,118,44.0,47100000.0,4,2,1
+1,Chicken Run,84,88.0,106790000.0,11,1,0
+2,Fantastic Four,106,40.0,154700000.0,0,0,0
+3,Frida,123,61.0,25780000.0,12,2,1
+4,The Lord of the Rings: The Fellowship of the Ring,178,92.0,313840000.0,67,4,1
+5,Mission: Impossible II,123,59.0,215400000.0,2,0,0
+6,Resident Evil,100,33.0,39530000.0,0,0,0
+7,X-Men,104,64.0,157300000.0,3,0,0
+8,The Emperor's New Groove,78,70.0,89300000.0,7,1,1
+9,Corpse Bride,77,83.0,53340000.0,5,0,1
+10,Star Wars: Episode II - Attack of the Clones,142,54.0,310680000.0,6,0,1
+11,Star Wars: Episode III - Revenge of the Sith,140,68.0,380260000.0,7,0,1
+12,Shrek,90,84.0,267650000.0,22,1,1
+13,Planet of the Apes,119,50.0,180010000.0,5,0,0
+14,Treasure Planet,95,60.0,38120000.0,1,0,1
+15,Pitch Black,109,49.0,39240000.0,0,0,0
+16,Training Day,122,69.0,76260000.0,7,1,1
+17,U-571,116,62.0,77090000.0,0,0,1
+18,American Psycho,102,64.0,15050000.0,3,0,0
+19,Spider-Man,121,73.0,403710000.0,6,0,1
+20,Lara Croft: Tomb Raider,100,33.0,131140000.0,0,0,0
+21,High Fidelity,113,79.0,27280000.0,7,1,0
+22,The Flintstones in Viva Rock Vegas,90,27.0,35230000.0,0,0,0
+23,Cold Mountain,154,73.0,95630000.0,35,8,1
+24,Charlie's Angels,98,52.0,125310000.0,1,0,0
+25,Nowhere in Africa,141,72.0,6170000.0,1,1,1
+26,Cast Away,143,73.0,233630000.0,15,1,1
+27,Ghost World,111,88.0,6200000.0,21,2,1
+28,Jurassic Park III,92,42.0,181170000.0,1,0,0
+29,The Beach,119,43.0,39780000.0,0,0,0
+30,Hollow Man,112,24.0,73210000.0,0,0,1
+31,The Sum of All Fears,124,45.0,118470000.0,0,0,0
+32,Along Came a Spider,104,42.0,74060000.0,0,0,0
+33,Romeo Must Die,115,52.0,55970000.0,0,0,0
+34,Spirit: Stallion of the Cimarron,83,52.0,73220000.0,4,1,1
+35,Mulholland Drive,147,81.0,7220000.0,29,4,1
+36,Hellboy,122,72.0,59040000.0,1,0,0
+37,The Lord of the Rings: The Return of the King,201,94.0,377020000.0,72,4,1
+38,The Lord of the Rings: The Two Towers,179,88.0,340480000.0,60,2,1
+39,Dancer in the Dark,140,61.0,4160000.0,17,2,1
+40,Lagaan: Once Upon a Time in India,224,84.0,,0,0,1
+41,How the Grinch Stole Christmas,104,46.0,260030000.0,9,1,1
+42,Bad Boys II,147,38.0,138400000.0,0,0,0
+43,Gladiator,155,64.0,187670000.0,51,5,1
+44,Scary Movie,88,48.0,157000000.0,0,0,0
+45,The Perfect Storm,130,59.0,182620000.0,7,0,1
+46,Quills,124,70.0,7060000.0,23,2,1
+47,Requiem for a Dream,102,68.0,3610000.0,28,1,1
+48,Minority Report,145,80.0,132010000.0,26,0,1
+49,Terminator 3: Rise of the Machines,109,66.0,150350000.0,0,0,0
+50,Traffic,147,86.0,124110000.0,47,5,1
+51,Almost Famous,122,90.0,32520000.0,55,4,1
+52,Boiler Room,120,63.0,16940000.0,2,0,0
+53,"Me, Myself & Irene",116,49.0,90570000.0,0,0,0
+54,Pollock,122,77.0,8600000.0,2,0,1
+55,A Knight's Tale,132,54.0,56080000.0,1,0,0
+56,Wonder Boys,107,73.0,19390000.0,30,4,1
+57,Battlefield Earth,118,9.0,21470000.0,0,0,0
+58,Little Nicky,90,38.0,39440000.0,0,0,0
+59,Frequency,118,67.0,44980000.0,2,1,0
+60,Space Cowboys,130,73.0,90450000.0,0,0,1
+61,Gone in Sixty Seconds,118,35.0,101640000.0,0,0,0
+62,The Patriot,165,63.0,113330000.0,2,0,1
+63,Blade II,117,52.0,81650000.0,0,0,0
+64,Shadow of the Vampire,92,71.0,8280000.0,8,1,1
+65,"Crouching Tiger, Hidden Dragon",120,93.0,128070000.0,66,3,1
+66,"O Brother, Where Art Thou?",107,69.0,45510000.0,11,2,1
+67,Vatel,103,44.0,50000.0,0,0,1
+68,Vertical Limit,124,48.0,68470000.0,1,0,0
+69,The Replacements,118,30.0,44740000.0,0,0,0
+70,Erin Brockovich,131,73.0,125550000.0,38,4,1
+71,Final Destination,98,36.0,53300000.0,0,0,0
+72,Zoolander,90,61.0,45160000.0,0,0,0
+73,Where the Heart Is,120,30.0,33770000.0,0,0,0
+74,"Monsters, Inc.",92,78.0,289910000.0,8,0,1
+75,Love & Basketball,124,70.0,27440000.0,0,0,0
+76,Coyote Ugly,100,27.0,60790000.0,0,0,0
+77,Moulin Rouge!,127,66.0,57390000.0,62,6,1
+78,Men of Honor,129,56.0,48810000.0,0,0,0
+79,Sexy Beast,89,79.0,6940000.0,9,1,1
+80,You Can Count on Me,111,85.0,9180000.0,16,2,1
+81,The Watcher,97,22.0,28930000.0,0,0,0
+82,Bring It On,98,52.0,68350000.0,0,0,0
+83,Children of Men,109,84.0,35290000.0,31,0,1
+84,What Women Want,127,47.0,182810000.0,1,1,0
+85,Snatch,102,55.0,30090000.0,0,0,0
+86,The Contender,126,59.0,17800000.0,6,2,1
+87,Everybody's Famous!,97,60.0,70000.0,0,0,1
+88,Ken Park,93,,,0,0,0
+89,Memento,113,80.0,25530000.0,26,1,1
+90,The Mummy Returns,130,48.0,202010000.0,0,0,0
+91,"Wedding Planner - verliebt, verlobt, verplant",103,33.0,60400000.0,0,0,0
+92,The Cell,107,40.0,61280000.0,5,0,1
+93,Remember the Titans,113,48.0,115650000.0,0,0,0
+94,102 Dalmatians,100,35.0,66940000.0,0,0,1
+95,Jason X,91,25.0,12610000.0,0,0,0
+96,AmЋlie,122,69.0,33200000.0,20,1,1
+97,Meet the Parents,108,73.0,166230000.0,2,1,1
+98,Miss Congeniality,109,43.0,106810000.0,2,2,0
+99,A.I. Artificial Intelligence,146,65.0,78620000.0,22,3,1
+100,Hannibal,131,57.0,165090000.0,0,0,0
+101,Pearl Harbor,183,44.0,198540000.0,7,2,1
+102,MalЏna,109,54.0,3430000.0,4,2,1
+103,Road Trip,93,55.0,68530000.0,0,0,0
+104,Enemy at the Gates,131,53.0,51400000.0,0,0,0
+105,The Taste of Others,112,78.0,640000.0,0,0,1
+106,Gangs of New York,167,72.0,77680000.0,51,5,1
+107,Unbreakable,106,62.0,95000000.0,2,0,0
+108,Original Sin,116,33.0,16250000.0,0,0,0
+109,The Family Man,125,42.0,75760000.0,0,0,0
+110,The Gift,111,62.0,11990000.0,0,0,0
+111,Blow,124,52.0,52940000.0,1,0,0
+112,Atlantis: The Lost Empire,95,52.0,84040000.0,4,0,0
+113,Bedazzled,93,49.0,37880000.0,0,0,0
+114,The Others,104,74.0,96470000.0,13,1,0
+115,The Fast and the Furious,106,58.0,144510000.0,1,0,0
+116,The Matrix Reloaded,138,62.0,281490000.0,2,0,0
+117,Divided We Fall,117,69.0,1320000.0,0,0,1
+118,Equilibrium,107,33.0,1190000.0,0,0,0
+119,Water,117,77.0,3220000.0,1,0,1
+120,Ocean's Eleven,116,74.0,183410000.0,6,0,0
+121,Serendipity,90,52.0,49970000.0,0,0,0
+122,Chocolat,121,64.0,71310000.0,20,4,1
+123,Harry Potter and the Sorcerer's Stone,152,64.0,317560000.0,25,0,1
+124,Bully,108,45.0,510000.0,0,0,0
+125,The Affair of the Necklace,118,42.0,430000.0,0,0,1
+126,The Matrix Revolutions,129,47.0,139260000.0,1,0,0
+127,The Man Who Wasn't There,116,73.0,7490000.0,22,3,1
+128,Bridget Jones's Diary,97,66.0,71500000.0,10,2,1
+129,Wet Hot American Summer,97,42.0,290000.0,0,0,0
+130,Zus & zo,106,50.0,,0,0,1
+131,Spirited Away,125,94.0,10050000.0,11,0,1
+132,Y Tu Mam‡ TambiЋn,106,88.0,13620000.0,11,1,1
+133,Thir13en Ghosts,91,30.0,41870000.0,0,0,0
+134,Amores Perros,154,83.0,5380000.0,9,1,1
+135,The Count of Monte Cristo,131,61.0,54230000.0,0,0,0
+136,Die Another Day,133,56.0,160200000.0,2,1,0
+137,Donnie Darko,113,71.0,730000.0,2,0,0
+138,Before Night Falls,133,85.0,4220000.0,5,1,1
+139,In the Bedroom,130,86.0,35918429.0,34,3,1
+140,The Princess Diaries,111,52.0,108240000.0,1,0,0
+141,Super Troopers,100,48.0,18490000.0,0,0,0
+142,Ali,157,65.0,58180000.0,6,3,1
+143,Billy Elliot,110,74.0,21990000.0,42,2,1
+144,Legally Blonde,96,59.0,95000000.0,3,2,0
+145,Unfaithful,124,63.0,52750000.0,7,1,1
+146,How to Lose a Guy in 10 Days,116,45.0,105810000.0,0,0,0
+147,House of 1000 Corpses,89,31.0,12580000.0,0,0,0
+148,Maid in Manhattan,105,45.0,93820000.0,0,0,0
+149,American Pie 2,108,43.0,145100000.0,1,0,0
+150,The Pianist,150,85.0,32519322.0,19,2,1
+151,Reign of Fire,101,39.0,43060000.0,0,0,0
+152,Star Trek: Nemesis,116,51.0,43120000.0,0,0,0
+153,Shallow Hal,114,48.0,70840000.0,0,0,0
+154,Sweet Home Alabama,108,45.0,127210000.0,0,0,0
+155,Road to Perdition,117,72.0,104050000.0,24,1,1
+156,Scary Movie 2,83,29.0,71280000.0,0,0,0
+157,About Schmidt,125,85.0,65010000.0,33,5,1
+158,Panic Room,112,65.0,95310000.0,3,0,0
+159,The Quiet American,101,84.0,12990000.0,4,1,1
+160,The Bourne Identity,119,68.0,121470000.0,1,0,0
+161,My Big Fat Greek Wedding,95,62.0,241440000.0,15,2,1
+162,Vanilla Sky,136,45.0,100610000.0,7,2,1
+163,Jay and Silent Bob Strike Back,104,51.0,30060000.0,0,0,0
+164,Jeepers Creepers - Es ist angerichtet,90,49.0,37470000.0,0,0,0
+165,Catch Me If You Can,141,76.0,164440000.0,16,1,1
+166,Black Hawk Down,142,74.0,108640000.0,10,0,1
+167,The Girl Next Door,108,47.0,14590000.0,0,0,0
+168,The Rookie,127,72.0,75600000.0,1,0,0
+169,The Royal Tenenbaums,110,76.0,52350000.0,16,1,1
+170,Finding Nemo,100,90.0,380840000.0,21,1,1
+171,Kill Bill: Vol. 1,111,69.0,70100000.0,30,1,0
+172,Rush Hour 2,90,48.0,226140000.0,0,0,0
+173,Spy Game - Der finale Countdown,126,63.0,30000.0,0,0,0
+174,Scooby-Doo,86,35.0,153290000.0,0,0,0
+175,Adaptation.,114,83.0,22250000.0,45,6,1
+176,Ice Age,81,60.0,176390000.0,4,0,1
+177,Jimmy Neutron: Boy Genius,82,65.0,80920000.0,0,0,1
+178,The Time Machine,96,42.0,56680000.0,0,0,1
+179,A Beautiful Mind,135,72.0,170710000.0,31,6,1
+180,The Hours,114,81.0,41600000.0,51,7,1
+181,Secretary,104,63.0,4050000.0,5,1,0
+182,Lilo & Stitch,85,73.0,145770000.0,6,0,1
+183,About a Boy,101,75.0,40570000.0,12,2,1
+184,I Am Sam,132,28.0,40270000.0,5,0,1
+185,The Scorpion King,92,45.0,90340000.0,0,0,0
+186,Not Another Teen Movie,89,32.0,37880000.0,0,0,0
+187,We Were Soldiers,138,65.0,78120000.0,0,0,0
+188,Insomnia,118,78.0,67260000.0,2,0,0
+189,Elling,89,70.0,310000.0,0,0,1
+190,Mr. Deeds,96,24.0,126200000.0,0,0,0
+191,Gosford Park,133,90.0,41300105.0,42,5,1
+192,Iris,91,76.0,1290000.0,16,3,1
+193,A Walk to Remember,101,35.0,41230000.0,0,0,0
+194,The Wild Thornberrys Movie,85,69.0,39880000.0,3,1,1
+195,Van Wilder: Party Liaison,92,26.0,21010000.0,0,0,0
+196,No Man's Land,98,84.0,1060000.0,7,1,1
+197,Dreamcatcher,134,35.0,33690000.0,0,0,0
+198,Monster's Ball,111,69.0,31250000.0,6,1,1
+199,Signs,106,59.0,227970000.0,3,0,0
+200,The Triplets of Belleville,78,91.0,7000000.0,12,0,1
+201,Bend It Like Beckham,112,66.0,32540000.0,5,1,0
+202,Hulk,138,54.0,132120000.0,0,0,0
+203,Talk to Her,112,86.0,9284265.0,13,1,1
+204,Daredevil,103,42.0,430000.0,0,0,0
+205,Zelary,150,66.0,330000.0,0,0,1
+206,Red Dragon,124,60.0,92930000.0,1,0,0
+207,The Butterfly Effect,113,30.0,20000.0,0,0,0
+208,X-Men 2,134,68.0,214950000.0,3,0,0
+209,The Recruit,115,56.0,52780000.0,0,0,0
+210,Son of the Bride,123,68.0,620000.0,0,0,1
+211,The Phantom of the Opera,143,40.0,51230000.0,13,3,1
+212,The Transporter,92,51.0,25300000.0,0,0,0
+213,Rent,135,53.0,29080000.0,6,0,0
+214,Harry Potter and the Chamber of Secrets,161,63.0,261970000.0,13,0,0
+215,Wrong Turn,84,32.0,15420000.0,0,0,0
+216,xXx,124,48.0,141200000.0,0,0,0
+217,The Chronicles of Riddick,119,38.0,57640000.0,0,0,0
+218,Far from Heaven,107,84.0,15850000.0,49,4,1
+219,The Ring,115,57.0,128580000.0,1,0,0
+220,Shrek 2,93,75.0,436470000.0,17,1,1
+221,8 Mile,110,77.0,116720000.0,5,1,1
+222,Whale Rider,101,80.0,20770000.0,9,0,1
+223,The Core,135,48.0,31110000.0,0,0,0
+224,In America,105,76.0,15540000.0,21,2,1
+225,Chicago,113,82.0,170680000.0,63,8,1
+226,Hero,99,85.0,80000.0,13,1,1
+227,Blue Crush,104,61.0,40120000.0,0,0,0
+228,Dirty Pretty Things,97,78.0,8110000.0,9,0,1
+229,The Hot Chick,104,29.0,35020000.0,0,0,0
+230,Old School,88,54.0,74610000.0,0,0,0
+231,Cabin Fever,93,56.0,21160000.0,0,0,0
+232,Harry Potter and the Prisoner of Azkaban,142,82.0,249360000.0,17,0,1
+233,American Splendor,101,90.0,6000000.0,14,1,1
+234,Anger Management,106,52.0,133760000.0,0,0,0
+235,Shark Tale,90,48.0,160760000.0,1,0,1
+236,Finding Neverland,166,67.0,51676606.0,39,5,1
+237,Final Destination 2,90,38.0,46460000.0,0,0,0
+238,Identity,90,64.0,51480000.0,0,0,0
+239,A Mighty Wind,91,81.0,17510000.0,9,0,1
+240,Master and Commander: The Far Side of the World,138,81.0,93930000.0,36,3,1
+241,Holes,117,71.0,67330000.0,1,0,0
+242,The League of Extraordinary Gentlemen,110,30.0,66460000.0,0,0,0
+243,The Man Without a Past,97,84.0,920000.0,2,0,1
+244,Pieces of April,80,70.0,2360000.0,6,1,1
+245,The Curse of the Were-Rabbit,85,87.0,56070000.0,14,0,1
+246,The Cat in the Hat,82,19.0,100450000.0,0,0,0
+247,El crimen del padre Amaro,118,60.0,5710000.0,1,1,1
+248,Love Actually,135,55.0,59370000.0,14,2,0
+249,Tears of the Sun,121,48.0,43430000.0,0,0,0
+250,Bruce Almighty,101,46.0,242590000.0,1,0,0
+251,21 Grams,124,70.0,16250000.0,23,0,1
+252,House of Sand and Fog,126,71.0,13010000.0,14,1,1
+253,Peter Pan,113,64.0,48420000.0,1,0,0
+254,Spider-Man 2,127,83.0,373380000.0,14,0,1
+255,Bridget Jones: The Edge of Reason,108,44.0,40200000.0,3,1,0
+256,Cars,117,73.0,244050000.0,19,1,1
+257,City of God,130,79.0,7560000.0,10,1,1
+258,Daddy Day Care,92,39.0,104150000.0,0,0,0
+259,The Incredibles,115,90.0,261440000.0,30,1,1
+260,The Italian Job,111,68.0,106130000.0,0,0,0
+261,Mission: Impossible III,126,66.0,133380000.0,0,0,0
+262,The Cooler,101,69.0,8240000.0,9,2,1
+263,The Motorcycle Diaries,126,75.0,16760000.0,19,1,1
+264,Resident Evil: Apocalypse,94,35.0,50740000.0,0,0,0
+265,Big Fish,125,58.0,66260000.0,21,4,1
+266,The Day After Tomorrow,124,47.0,186740000.0,2,0,0
+267,Elf,97,64.0,173380000.0,0,0,0
+268,Kingdom of Heaven,144,63.0,47400000.0,1,0,0
+269,Underworld,121,42.0,51480000.0,0,0,0
+270,2 Fast 2 Furious,107,38.0,127080000.0,0,0,0
+271,Freaky Friday,97,70.0,110220000.0,2,1,0
+272,Twin Sisters,137,,1207.0,0,0,1
+273,The Texas Chainsaw Massacre,98,38.0,80150000.0,0,0,0
+274,The Last Samurai,154,55.0,111110000.0,16,3,1
+275,Pirates of the Caribbean: The Curse of the Black Pearl,143,63.0,305390000.0,23,1,1
+276,Mystic River,138,84.0,90140000.0,50,5,1
+277,Around the World in 80 Days,120,49.0,24000000.0,0,0,0
+278,Coraline,100,80.0,75280000.0,12,1,1
+279,Man on Fire,146,47.0,77860000.0,1,0,0
+280,Thirteen,100,70.0,4600000.0,11,2,1
+281,Under the Tuscan Sun,113,52.0,43600000.0,2,1,0
+282,Brother Bear,85,48.0,85330000.0,2,0,1
+283,Freddy vs. Jason,97,37.0,82160000.0,0,0,0
+284,Seabiscuit,150,72.0,120147445.0,12,2,1
+285,xXx: State of the Union,101,37.0,26080000.0,0,0,0
+286,Harry Potter and the Goblet of Fire,157,81.0,289990000.0,12,0,1
+287,The Punisher,124,33.0,33680000.0,0,0,0
+288,The Notebook,123,53.0,60000.0,1,0,0
+289,School of Rock,108,82.0,81260000.0,6,1,0
+290,Troy,163,56.0,133230000.0,1,0,1
+291,Girl with a Pearl Earring,100,72.0,11630000.0,20,2,1
+292,Lost in Translation,101,89.0,44570000.0,50,5,1
+293,The Passion of the Christ,127,47.0,370780000.0,5,0,1
+294,Something's Gotta Give,128,66.0,124590000.0,5,2,1
+295,Live Free or Die Hard,128,69.0,134520000.0,0,0,0
+296,Eternal Sunshine of the Spotless Mind,108,89.0,34130000.0,49,4,1
+297,The Barbarian Invasions,99,70.0,3430000.0,6,1,1
+298,Evil,113,61.0,20000.0,0,0,1
+299,Paycheck,119,43.0,53790000.0,0,0,0
+300,The Polar Express,100,61.0,580000.0,7,1,1
+301,Van Helsing,131,35.0,120030000.0,0,0,0
+302,The Aviator,170,77.0,102610000.0,66,6,1
+303,A Series of Unfortunate Events,108,62.0,118630000.0,10,0,1
+304,Being Julia,104,65.0,7740000.0,7,1,1
+305,Monster,109,74.0,34470000.0,10,1,1
+306,50 First Dates,99,48.0,120780000.0,1,0,0
+307,The Good Shepherd,167,61.0,59900000.0,3,0,1
+308,"I, Robot",115,59.0,144800000.0,0,0,1
+309,A Very Long Engagement,133,76.0,6170000.0,8,1,1
+310,Alexander,175,39.0,34290000.0,0,0,0
+311,Howl's Moving Castle,119,80.0,4710000.0,7,0,1
+312,Superman Returns,154,72.0,200070000.0,3,0,1
+313,Waiting...,94,30.0,16100000.0,0,0,0
+314,Cheaper by the Dozen,98,46.0,138610000.0,0,0,0
+315,King Arthur,126,46.0,51880000.0,1,0,0
+316,Ocean's Twelve,125,58.0,125530000.0,3,0,0
+317,Ray,152,73.0,75305995.0,26,2,1
+318,Madagascar,86,57.0,193140000.0,4,0,0
+319,The Twilight Samurai,129,82.0,,0,0,1
+320,Walking Tall,86,44.0,45860000.0,0,0,0
+321,Cinderella Man,144,69.0,61640000.0,15,2,1
+322,The Brothers Grimm,118,51.0,37900000.0,0,0,0
+323,EuroTrip,93,45.0,17720000.0,0,0,0
+324,A Cinderella Story,95,25.0,51430000.0,0,0,0
+325,The Family Stone,103,56.0,6060000.0,4,1,0
+326,Mr. & Mrs. Smith,120,55.0,186340000.0,2,0,0
+327,Anchorman: The Legend of Ron Burgundy,94,63.0,84140000.0,1,0,0
+328,Robots,91,64.0,128200000.0,2,0,0
+329,Walk the Line,136,72.0,119520000.0,27,3,1
+330,The Secret Life of Walter Mitty,114,54.0,58230000.0,1,0,0
+331,Constantine,121,50.0,75500000.0,0,0,0
+332,King Kong,187,81.0,218050000.0,27,2,1
+333,Inglourious Basterds,153,69.0,120520000.0,64,4,1
+334,The Terminal,128,55.0,77030000.0,2,0,0
+335,Kinsey,118,79.0,10210000.0,21,3,1
+336,The Life Aquatic with Steve Zissou,119,62.0,24010000.0,4,0,0
+337,Downfall,156,82.0,5500000.0,6,0,1
+338,Dawn of the Dead,101,59.0,58890000.0,3,0,0
+339,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",143,75.0,291710000.0,16,2,1
+340,Taking Lives,103,38.0,32680000.0,0,0,0
+341,Dodgeball: A True Underdog Story,92,55.0,114320000.0,0,0,0
+342,Syriana,128,76.0,50820000.0,13,2,1
+343,Happy Feet,108,77.0,197990000.0,13,2,1
+344,Harold & Kumar Go to White Castle,88,64.0,18230000.0,0,0,0
+345,The Squid and the Whale,81,82.0,7360000.0,22,3,1
+346,Charlie and the Chocolate Factory,115,72.0,206460000.0,17,1,1
+347,Indiana Jones and the Kingdom of the Crystal Skull,122,65.0,317010000.0,9,0,0
+348,The Room,99,,,0,0,0
+349,The Village,108,44.0,114200000.0,2,0,1
+350,I'm Not There.,135,73.0,4000000.0,13,1,1
+351,National Treasure,131,39.0,173010000.0,0,0,0
+352,Collateral,120,71.0,100000000.0,23,1,1
+353,Jurassic World,124,59.0,652180000.0,12,0,0
+354,The Sea Inside,125,74.0,2090000.0,5,2,1
+355,AVP: Alien vs. Predator,101,29.0,80280000.0,0,0,0
+356,Spanglish,131,48.0,42040000.0,2,1,0
+357,The Hitchhiker's Guide to the Galaxy,109,63.0,51020000.0,1,0,0
+358,Iron Man,126,79.0,318300000.0,13,0,1
+359,The Bourne Supremacy,108,73.0,176050000.0,3,0,0
+360,The Wedding Date,90,32.0,31590000.0,0,0,0
+361,Batman Begins,140,70.0,205340000.0,14,0,1
+362,The Chorus,97,56.0,3630000.0,5,1,1
+363,Kiss Kiss Bang Bang,103,72.0,4240000.0,3,0,0
+364,Harry Potter and the Order of the Phoenix,138,71.0,292000000.0,10,0,0
+365,Napoleon Dynamite,96,64.0,44540000.0,3,0,0
+366,Sideways,126,94.0,71502303.0,60,7,1
+367,Crash,112,69.0,54560000.0,46,2,1
+368,Closer,104,65.0,33990000.0,23,5,1
+369,X-Men: The Last Stand,104,58.0,234360000.0,5,0,0
+370,Mean Girls,97,66.0,86050000.0,5,0,0
+371,The Ring Two,110,44.0,75890000.0,0,0,0
+372,Kill Bill: Vol. 2,137,83.0,66210000.0,16,2,0
+373,Capote,114,88.0,28747570.0,39,1,1
+374,Serenity,119,74.0,25340000.0,2,0,0
+375,The Lovely Bones,135,42.0,43980000.0,15,1,1
+376,Casino Royale,144,80.0,167010000.0,15,0,0
+377,Before Sunset,80,90.0,5790000.0,11,0,1
+378,White Chicks,109,41.0,69150000.0,0,0,0
+379,3:10 to Yuma,122,76.0,53570000.0,6,0,1
+380,As It Is in Heaven,133,,10000.0,0,0,1
+381,The Da Vinci Code,149,46.0,217540000.0,4,1,0
+382,Ratatouille,111,96.0,206440000.0,22,1,1
+383,Pirates of the Caribbean: Dead Man's Chest,151,53.0,423030000.0,21,1,1
+384,Vera Drake,125,83.0,3750000.0,25,1,1
+385,Accepted,93,47.0,36300000.0,0,0,0
+386,The Amityville Horror,90,33.0,64260000.0,0,0,0
+387,Green Street Hooligans,109,55.0,340000.0,0,0,0
+388,House of Flying Daggers,119,89.0,11040000.0,30,1,1
+389,The Golden Compass,113,51.0,70080000.0,6,0,1
+390,Monster House,91,68.0,73660000.0,7,1,1
+391,Hitch,118,58.0,177580000.0,3,0,0
+392,The Constant Gardener,129,82.0,33570000.0,35,3,1
+393,Saw,103,46.0,55150000.0,0,0,0
+394,Idiocracy,84,66.0,440000.0,0,0,0
+395,The Black Dahlia,121,49.0,22520000.0,1,0,1
+396,Brokeback Mountain,134,87.0,83030000.0,77,7,1
+397,Bee Movie,91,54.0,126600000.0,3,1,0
+398,Click,107,45.0,137340000.0,1,0,1
+399,Maria Full of Grace,101,87.0,6520000.0,14,0,1
+400,Hotel Rwanda,121,79.0,23470000.0,18,3,1
+401,The Devil's Rejects,107,53.0,16900000.0,0,0,0
+402,The Pacifier,95,30.0,113010000.0,0,0,0
+403,North Country,126,68.0,18320000.0,9,2,1
+404,Perfume: The Story of a Murderer,147,56.0,2210000.0,1,0,0
+405,Wedding Crashers,119,64.0,209220000.0,5,0,0
+406,House of Wax,108,41.0,32050000.0,0,0,0
+407,Memoirs of a Geisha,145,54.0,57010000.0,22,2,1
+408,Bolt,96,67.0,114050000.0,6,2,1
+409,The Longest Yard,113,48.0,158120000.0,3,0,0
+410,Tangled,100,71.0,200810000.0,8,2,1
+411,Bridge to Terabithia,96,74.0,82230000.0,2,0,0
+412,A History of Violence,96,81.0,31490000.0,33,2,1
+413,The Island,136,50.0,35800000.0,1,0,0
+414,The Diving Bell and the Butterfly,112,92.0,5990000.0,34,3,1
+415,A Good Year,117,47.0,7460000.0,1,0,0
+416,John Carter,132,51.0,73060000.0,0,0,0
+417,Sin City,124,74.0,74100000.0,12,0,0
+418,Underworld: Evolution,106,36.0,62320000.0,0,0,0
+419,The New World,135,69.0,12710000.0,9,0,1
+420,The Sisterhood of the Traveling Pants,119,66.0,39010000.0,0,0,0
+421,Little Children,136,75.0,5460000.0,21,3,1
+422,The Lives of Others,137,89.0,11280000.0,13,1,1
+423,Million Dollar Baby,132,86.0,100420000.0,32,5,1
+424,Sky High,100,62.0,63940000.0,0,0,0
+425,The 40-Year-Old Virgin,116,73.0,109240000.0,9,0,0
+426,Zathura: A Space Adventure,101,67.0,28050000.0,1,0,0
+427,Transamerica,103,66.0,9010000.0,10,2,1
+428,War of the Worlds,116,73.0,234280000.0,6,0,1
+429,The Departed,151,85.0,132370000.0,62,6,1
+430,Sweeney Todd: The Demon Barber of Fleet Street,116,83.0,52880000.0,22,4,1
+431,Munich,164,74.0,47380000.0,28,2,1
+432,Poseidon,98,50.0,60660000.0,0,0,1
+433,Watchmen,162,56.0,107500000.0,2,0,0
+434,Hustle & Flow,116,68.0,22200000.0,10,1,1
+435,The Lake House,99,52.0,52320000.0,1,0,0
+436,Hellboy II: The Golden Army,120,78.0,75750000.0,4,0,1
+437,Mrs Henderson Presents,103,71.0,11030000.0,18,3,1
+438,Spider-Man 3,139,59.0,336530000.0,3,0,0
+439,Elizabeth: The Golden Age,114,45.0,16260000.0,10,1,1
+440,Pride & Prejudice,129,82.0,38370000.0,23,2,1
+441,The Fountain,96,51.0,10140000.0,8,1,0
+442,Mongol: The Rise of Genghis Khan,126,74.0,5700000.0,1,0,1
+443,Match Point,119,72.0,23090000.0,7,4,1
+444,300,117,52.0,210590000.0,6,0,0
+445,Harry Potter and the Half-Blood Prince,153,78.0,301960000.0,9,0,1
+446,Transformers,144,61.0,318760000.0,7,0,1
+447,Flags of Our Fathers,135,79.0,33570000.0,6,1,1
+448,Jarhead,125,58.0,62650000.0,5,0,0
+449,Junebug,106,80.0,2680000.0,8,0,1
+450,Yesterday,90,,,0,0,1
+451,The Kite Runner,128,61.0,15800000.0,8,2,1
+452,The Curious Case of Benjamin Button,166,70.0,127490000.0,64,5,1
+453,Marie Antoinette,123,65.0,15960000.0,8,0,1
+454,Surf's Up,85,64.0,58870000.0,2,0,1
+455,Hard Candy,104,58.0,1010000.0,2,0,0
+456,Joyeux Noel,116,70.0,1050000.0,2,1,1
+457,Hot Fuzz,116,81.0,23620000.0,0,0,0
+458,Lucky Number Slevin,110,53.0,22490000.0,0,0,0
+459,Sophie Scholl: The Final Days,120,76.0,680000.0,0,0,1
+460,Alpha Dog,122,53.0,15230000.0,1,0,0
+461,August Rush,114,38.0,31660000.0,2,0,1
+462,Failure to Launch,97,47.0,88660000.0,1,0,0
+463,Hairspray,117,81.0,118820000.0,21,3,0
+464,The A-Team,117,47.0,77210000.0,0,0,0
+465,Four Brothers,109,49.0,74480000.0,1,0,0
+466,P.S. I Love You,126,39.0,53680000.0,0,0,0
+467,Resident Evil: Extinction,94,41.0,50650000.0,0,0,0
+468,Fantastic Mr. Fox,87,83.0,21000000.0,18,1,1
+469,Real Steel,127,56.0,85460000.0,0,0,1
+470,"Good Night, and Good Luck.",93,80.0,31501218.0,51,4,1
+471,V for Vendetta,132,62.0,70500000.0,2,0,0
+472,The Giver,97,47.0,45090000.0,2,0,0
+473,Toy Story 3,103,92.0,414980000.0,35,1,1
+474,The Queen,103,,56437947.0,57,4,1
+475,Terminator Salvation,115,49.0,125320000.0,0,0,0
+476,The Bourne Ultimatum,115,85.0,227140000.0,18,0,1
+477,Kung Fu Panda,92,73.0,215400000.0,10,1,1
+478,Volver,121,84.0,12900000.0,21,2,1
+479,Beowulf,115,59.0,82160000.0,2,0,0
+480,Lincoln,150,86.0,182200000.0,74,7,1
+481,Don't Tell,120,52.0,30000.0,0,0,1
+482,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,84,89.0,128510000.0,12,2,1
+483,Dreamgirls,130,76.0,103338338.0,50,5,1
+484,The Illusionist,110,68.0,39830000.0,3,0,1
+485,The Assassination of Jesse James by the Coward Robert Ford,160,68.0,3900000.0,17,1,1
+486,Zodiac,157,78.0,33050000.0,14,0,0
+487,Days of Glory,120,82.0,320000.0,1,0,1
+488,Paradise Now,90,71.0,1450000.0,3,1,1
+489,Across the Universe,133,56.0,24340000.0,2,1,1
+490,Scott Pilgrim vs. the World,112,69.0,31490000.0,11,0,0
+491,Sunshine,107,64.0,3680000.0,2,0,0
+492,Hancock,92,49.0,227950000.0,1,0,0
+493,Puss in Boots,90,65.0,149230000.0,5,1,1
+494,Little Miss Sunshine,101,80.0,59890000.0,43,2,1
+495,Pirates of the Caribbean: At World's End,169,50.0,309400000.0,9,0,1
+496,Babel,143,69.0,34300000.0,50,7,1
+497,La Vie en Rose,140,66.0,10299782.0,22,1,1
+498,Blood Diamond,143,64.0,57370000.0,6,1,1
+499,Hostel,94,55.0,47280000.0,0,0,0
+500,Death Race,105,43.0,36060000.0,0,0,0
+501,Gone Baby Gone,114,72.0,20300000.0,14,1,1
+502,The Good German,105,49.0,1300000.0,2,0,1
+503,Lady in the Water,110,36.0,42270000.0,0,0,0
+504,Deja Vu,126,59.0,64030000.0,0,0,0
+505,The Hills Have Eyes,107,52.0,41780000.0,0,0,0
+506,Inside Man,129,76.0,88500000.0,0,0,0
+507,Life of Pi,127,79.0,124980000.0,44,3,1
+508,The Pursuit of Happyness,117,64.0,162590000.0,6,2,1
+509,She's the Man,105,45.0,1020000.0,0,0,0
+510,The Last King of Scotland,123,74.0,17605861.0,19,1,1
+511,Australia,165,53.0,49550000.0,3,0,1
+512,The Equalizer,132,57.0,101530000.0,1,0,0
+513,John Tucker Must Die,89,41.0,41010000.0,0,0,0
+514,Grandma's Boy,94,33.0,6090000.0,0,0,0
+515,Pan's Labyrinth,118,98.0,37620000.0,36,1,1
+516,After the Wedding,120,78.0,1530000.0,0,0,1
+517,The Holiday,138,52.0,63220000.0,0,0,0
+518,Captain America: The First Avenger,124,66.0,176640000.0,2,0,0
+519,The Devil Wears Prada,109,62.0,124730000.0,22,3,1
+520,X-Men Origins: Wolverine,107,40.0,179880000.0,1,0,0
+521,The Fall,117,64.0,2280000.0,4,0,0
+522,Enchanted,107,75.0,127710000.0,8,2,1
+523,Black Snake Moan,116,52.0,9400000.0,0,0,0
+524,Grindhouse,191,77.0,25030000.0,0,0,0
+525,Step Up,104,48.0,65270000.0,0,0,0
+526,The Fast and the Furious: Tokyo Drift,104,46.0,62490000.0,0,0,0
+527,Michael Clayton,119,82.0,49024969.0,36,4,1
+528,Notes on a Scandal,92,73.0,17510000.0,22,3,1
+529,The Other Boleyn Girl,115,50.0,26810000.0,0,0,0
+530,Juno,96,81.0,143490000.0,35,3,1
+531,Half Nelson,106,85.0,2690000.0,15,0,1
+532,Tsotsi,94,70.0,2910000.0,3,1,1
+533,The Dark Knight,152,82.0,533320000.0,65,1,1
+534,There Will Be Blood,158,92.0,40220000.0,63,2,1
+535,Ex Machina,108,78.0,25440000.0,33,1,1
+536,Apocalypto,139,68.0,50860000.0,5,1,1
+537,Charlie Wilson's War,102,69.0,66640000.0,10,5,1
+538,Penelope,104,48.0,10010000.0,0,0,0
+539,The Mechanic,93,49.0,29110000.0,0,0,0
+540,Prince of Persia: The Sands of Time,116,50.0,90760000.0,1,0,0
+541,Curse of the Golden Flower,114,70.0,6570000.0,4,0,1
+542,United 93,111,90.0,31470000.0,26,0,1
+543,"Hail, Caesar!",106,72.0,29997095.0,6,0,1
+544,Smokin' Aces,108,45.0,35640000.0,0,0,0
+545,Norbit,102,27.0,95320000.0,0,0,1
+546,Unstoppable,98,69.0,81560000.0,1,0,1
+547,Extremely Loud & Incredibly Close,129,46.0,31836745.0,7,0,1
+548,Night at the Museum,108,48.0,250860000.0,0,0,0
+549,No Country for Old Men,122,91.0,74270000.0,60,4,1
+550,In the Valley of Elah,121,65.0,6780000.0,2,0,1
+551,The Tree of Life,139,85.0,13300000.0,36,0,1
+552,Knocked Up,129,85.0,148730000.0,4,0,0
+553,Ant-Man,117,64.0,180190000.0,4,0,0
+554,Rocky Balboa,102,63.0,70270000.0,0,0,0
+555,Nancy Drew,99,53.0,25580000.0,0,0,0
+556,I Am Legend,101,65.0,256390000.0,2,0,0
+557,The Croods,98,55.0,187170000.0,5,1,1
+558,The Prestige,130,66.0,53080000.0,10,0,1
+559,The Strangers,86,47.0,52530000.0,0,0,0
+560,The Secret of Kells,75,81.0,690000.0,0,0,1
+561,Beerfest,110,46.0,19180000.0,0,0,0
+562,Stardust,127,66.0,38350000.0,0,0,0
+563,Disturbia,105,62.0,80050000.0,1,0,0
+564,Fracture,113,68.0,39000000.0,0,0,0
+565,12,159,72.0,130000.0,0,0,1
+566,Chapter 27,84,32.0,60000.0,0,0,0
+567,Jumper,88,35.0,80170000.0,0,0,0
+568,Venus,95,82.0,3340000.0,9,1,1
+569,Silence,161,79.0,860000.0,8,0,1
+570,Away from Her,110,88.0,15830000.0,14,1,1
+571,Wanted,110,64.0,134570000.0,2,0,1
+572,Ocean's Thirteen,122,62.0,117140000.0,2,0,0
+573,Vicky Cristina Barcelona,96,70.0,23210000.0,18,4,1
+574,Letters from Iwo Jima,141,91.0,13753931.0,12,2,1
+575,Avatar,162,83.0,760510000.0,46,4,1
+576,Aliens vs. Predator: Requiem,94,29.0,41800000.0,0,0,0
+577,Beaufort,131,,100000.0,0,0,1
+578,Friday the 13th,97,34.0,65000000.0,0,0,0
+579,Love & Other Drugs,112,55.0,32360000.0,2,2,0
+580,Into the Wild,148,73.0,18350000.0,25,2,1
+581,Music and Lyrics,96,59.0,50560000.0,0,0,0
+582,Body of Lies,128,57.0,39380000.0,1,0,0
+583,American Gangster,157,76.0,130130000.0,14,3,1
+584,The Baader Meinhof Complex,150,76.0,480000.0,2,1,1
+585,Eastern Promises,100,82.0,17110000.0,15,3,1
+586,Fool's Gold,112,29.0,70220000.0,0,0,0
+587,Man of Steel,143,55.0,291020000.0,4,0,0
+588,The Illusionist,80,82.0,2230000.0,8,1,1
+589,The Savages,113,85.0,6610000.0,6,1,1
+590,Drive,100,78.0,35050000.0,44,1,1
+591,The Princess and the Frog,97,73.0,104370000.0,10,1,1
+592,In Bruges,107,67.0,7760000.0,17,3,1
+593,The Wolfman,103,43.0,61940000.0,0,0,1
+594,Atonement,123,85.0,50920000.0,55,7,1
+595,The Boxtrolls,96,61.0,50810000.0,10,1,1
+596,Dallas Buyers Club,117,84.0,27300000.0,26,2,1
+597,The Messenger,113,77.0,70000.0,10,1,1
+598,Jack Reacher,130,50.0,58680000.0,0,0,0
+599,Death at a Funeral,87,67.0,8580000.0,0,0,0
+600,Mamma Mia!,108,51.0,143700000.0,12,2,0
+601,Star Trek,127,82.0,257700000.0,22,0,1
+602,Forgetting Sarah Marshall,111,67.0,62880000.0,4,0,0
+603,The Incredible Hulk,112,61.0,134520000.0,0,0,0
+604,Clash of the Titans,106,39.0,163190000.0,0,0,0
+605,Thor,115,57.0,181020000.0,2,0,0
+606,Lars and the Real Girl,106,70.0,5950000.0,5,1,1
+607,Angels & Demons,138,48.0,133380000.0,1,0,0
+608,Funny Games,111,44.0,1290000.0,0,0,0
+609,Persepolis,96,90.0,4440000.0,10,1,1
+610,Bright Star,119,81.0,4440000.0,6,0,1
+611,The Danish Girl,119,66.0,12710000.0,25,3,1
+612,The Counterfeiters,98,78.0,5480000.0,1,0,1
+613,Percy Jackson & the Olympians: The Lightning Thief,118,47.0,88760000.0,0,0,0
+614,Seven Pounds,123,36.0,69950000.0,0,0,0
+615,The Book Thief,131,53.0,21480000.0,3,1,1
+616,Conan the Barbarian,113,36.0,21270000.0,0,0,0
+617,Interstellar,169,74.0,187990000.0,24,1,1
+618,World War Z,116,63.0,202350000.0,3,0,0
+619,Valentine's Day,125,34.0,110480000.0,1,0,0
+620,Shooter,124,53.0,46980000.0,0,0,0
+621,Changeling,141,63.0,35710000.0,20,2,1
+622,The Last Station,112,76.0,6620000.0,5,2,1
+623,Superbad,113,76.0,121460000.0,5,0,0
+624,Quantum of Solace,106,58.0,168370000.0,8,0,0
+625,Godzilla,123,62.0,200660000.0,0,0,0
+626,"Definitely, Maybe",112,59.0,31970000.0,0,0,0
+627,Underworld: Rise of the Lycans,92,44.0,45800000.0,0,0,0
+628,Step Brothers,98,51.0,100470000.0,0,0,0
+629,The Town,125,74.0,92170000.0,14,1,1
+630,The Kids Are All Right,106,86.0,20800000.0,35,4,1
+631,The Last House on the Left,110,42.0,32720000.0,0,0,0
+632,The Avengers,143,69.0,623280000.0,16,0,1
+633,The House Bunny,97,55.0,48240000.0,0,0,0
+634,The Visitor,104,79.0,9420000.0,7,0,1
+635,The Duchess,110,62.0,13820000.0,8,1,1
+636,Frost/Nixon,122,80.0,18593156.0,37,5,1
+637,Nine,118,49.0,19670000.0,23,5,1
+638,The Blind Side,129,53.0,255950000.0,6,1,1
+639,Katyn,121,81.0,120000.0,1,0,1
+640,The Mist,126,58.0,25590000.0,0,0,0
+641,Burn After Reading,96,63.0,60340000.0,8,2,0
+642,The Hurt Locker,131,94.0,15700000.0,65,3,1
+643,The Switch,101,52.0,27760000.0,0,0,0
+644,How to Train Your Dragon,98,74.0,217390000.0,12,1,1
+645,The Road,111,64.0,60000.0,7,0,0
+646,Bride Wars,89,24.0,58720000.0,1,0,0
+647,The Hobbit: An Unexpected Journey,169,58.0,303000000.0,15,0,1
+648,Once,85,88.0,9440000.0,9,0,1
+649,Pineapple Express,111,64.0,87340000.0,1,1,0
+650,WALL·E,98,94.0,223810000.0,38,2,1
+651,The Boy in the Striped Pajamas,94,55.0,9030000.0,1,0,0
+652,Unthinkable,97,,,0,0,0
+653,Doubt,104,68.0,33420000.0,35,5,1
+654,Harry Potter and the Deathly Hallows: Part 1,146,65.0,294980000.0,9,0,1
+655,Precious,110,79.0,47540000.0,37,3,1
+656,Rabbit Hole,91,76.0,2220000.0,4,1,1
+657,The Last Airbender,103,20.0,131560000.0,0,0,0
+658,Tropic Thunder,107,71.0,110420000.0,14,2,1
+659,Salt,100,65.0,118310000.0,1,0,1
+660,Source Code,93,74.0,54700000.0,0,0,0
+661,Black Swan,108,79.0,106950000.0,74,4,1
+662,The Amazing Spider-Man,136,66.0,262030000.0,7,0,0
+663,Paris 36,120,40.0,850000.0,0,0,1
+664,The Happening,91,34.0,64510000.0,0,0,0
+665,Robin Hood,140,53.0,105220000.0,5,0,0
+666,Revolutionary Road,119,69.0,22880000.0,20,4,1
+667,You Don't Mess with the Zohan,113,54.0,100020000.0,0,0,0
+668,The Young Victoria,105,64.0,10990000.0,8,1,1
+669,"Angus, Thongs and Perfect Snogging",100,,,1,0,0
+670,The Fighter,116,79.0,93570000.0,43,6,1
+671,Hugo,126,83.0,73820000.0,59,3,1
+672,The Day the Earth Stood Still,104,40.0,79360000.0,0,0,0
+673,17 Again,102,48.0,64150000.0,1,0,0
+674,Hitchcock,98,55.0,6000000.0,5,1,1
+675,The Reader,124,58.0,34180000.0,22,4,1
+676,Frozen River,97,82.0,2510000.0,7,0,1
+677,Sucker Punch,110,33.0,36380000.0,0,0,0
+678,The Adventures of Tintin,107,68.0,77560000.0,11,1,1
+679,Valkyrie,121,56.0,83080000.0,0,0,0
+680,Sherlock Holmes,128,57.0,209020000.0,4,1,1
+681,Hanna,111,65.0,40250000.0,6,0,0
+682,The Wolf of Wall Street,180,75.0,116870000.0,39,2,1
+683,Sex and the City,145,53.0,152640000.0,3,0,0
+684,He's Just Not That Into You,129,47.0,93950000.0,1,0,0
+685,Zack and Miri Make a Porno,101,56.0,31450000.0,0,0,0
+686,The Iron Lady,105,54.0,29959436.0,16,1,1
+687,Slumdog Millionaire,120,86.0,141320000.0,64,4,1
+688,Fast & Furious,107,45.0,155020000.0,0,0,0
+689,Milk,128,84.0,31838002.0,55,1,1
+690,Alice in Wonderland,108,53.0,334190000.0,21,3,1
+691,Child 44,137,41.0,1210000.0,0,0,0
+692,The Sisterhood of the Traveling Pants 2,119,63.0,44090000.0,0,0,0
+693,A Serious Man,106,79.0,9190000.0,23,1,1
+694,Selma,128,89.0,52066000.0,20,4,1
+695,500 Days of Summer,95,76.0,32390000.0,17,2,0
+696,Never Back Down,110,39.0,24850000.0,0,0,0
+697,The Way Back,133,66.0,2680000.0,1,0,1
+698,Il Divo,110,81.0,240000.0,0,0,1
+699,Argo,120,86.0,136020000.0,60,5,1
+700,Death Proof,113,,,0,0,0
+701,Hachi: A Dog's Tale,93,,,0,0,0
+702,Secretariat,123,61.0,59700000.0,0,0,0
+703,RocknRolla,114,53.0,5690000.0,0,0,0
+704,The Descendants,115,84.0,82620000.0,48,5,1
+705,Defiance,137,58.0,28620000.0,1,1,1
+706,Coco Before Chanel,105,65.0,6110000.0,7,0,1
+707,The Book of Eli,118,53.0,94820000.0,0,0,0
+708,The Proposal,108,48.0,163950000.0,5,1,0
+709,Silver Linings Playbook,122,81.0,132090000.0,44,4,1
+710,Happy-Go-Lucky,118,84.0,3490000.0,22,2,1
+711,G.I. Joe: The Rise of Cobra,118,32.0,150170000.0,0,0,0
+712,Up,96,88.0,292980000.0,32,2,1
+713,The Imaginarium of Doctor Parnassus,123,65.0,7690000.0,5,0,1
+714,Life as We Know It,114,39.0,53360000.0,0,0,0
+715,Transformers: Revenge of the Fallen,150,35.0,402080000.0,2,0,1
+716,Invictus,134,74.0,37480000.0,11,3,1
+717,Cloverfield,85,64.0,80030000.0,0,0,0
+718,Boyhood,165,100.0,25360000.0,68,5,1
+719,The Class,128,92.0,3770000.0,4,0,1
+720,Departures,130,68.0,1540000.0,0,0,1
+721,Skyfall,143,81.0,304360000.0,39,1,1
+722,Ajami,124,82.0,620000.0,0,0,1
+723,Dark Shadows,113,55.0,79710000.0,1,0,0
+724,My Sister's Keeper,109,51.0,49190000.0,0,0,0
+725,Rachel Getting Married,113,82.0,12800000.0,20,1,1
+726,Lone Survivor,121,60.0,125070000.0,4,0,1
+727,Dragonball: Evolution,85,45.0,9350000.0,0,0,0
+728,Twilight,122,56.0,191450000.0,4,0,0
+729,Foxcatcher,134,81.0,12100000.0,19,3,1
+730,TRON: Legacy,125,49.0,172050000.0,8,0,1
+731,The Hangover,100,73.0,277310000.0,8,1,0
+732,Blue Valentine,112,81.0,9700000.0,11,2,1
+733,The Ides of March,101,67.0,40960000.0,10,4,1
+734,The Wrestler,109,81.0,26240000.0,30,3,1
+735,Burlesque,119,47.0,39440000.0,5,3,0
+736,Drag Me to Hell,99,83.0,42060000.0,0,0,0
+737,Shutter Island,138,63.0,127970000.0,6,0,0
+738,Jennifer's Body,102,47.0,16200000.0,0,0,0
+739,Green Lantern,114,39.0,116590000.0,0,0,0
+740,Julie & Julia,118,66.0,94130000.0,17,2,1
+741,District 9,112,81.0,115650000.0,40,1,1
+742,Frankenweenie,87,74.0,35290000.0,11,1,1
+743,Orphan,123,42.0,41570000.0,0,0,0
+744,The White Ribbon,144,82.0,2220000.0,14,1,1
+745,Public Enemies,140,70.0,97030000.0,3,0,0
+746,"I Love You, Man",105,70.0,71350000.0,1,0,0
+747,The Karate Kid,140,61.0,176590000.0,2,0,0
+748,Zombieland,88,73.0,75590000.0,1,0,0
+749,Biutiful,148,58.0,5100000.0,6,1,1
+750,The Hobbit: The Desolation of Smaug,161,66.0,258360000.0,17,0,1
+751,Demolition,101,49.0,1820000.0,0,0,0
+752,Revanche,121,84.0,,2,0,1
+753,An Education,100,85.0,12570000.0,36,1,1
+754,All Good Things,101,57.0,580000.0,0,0,0
+755,10 Cloverfield Lane,104,76.0,71900000.0,5,0,0
+756,The Lincoln Lawyer,118,63.0,57980000.0,0,0,0
+757,2012,158,49.0,166110000.0,2,0,0
+758,Rango,107,75.0,123210000.0,14,1,1
+759,Up in the Air,109,83.0,83810000.0,67,6,1
+760,The Bourne Legacy,135,61.0,113170000.0,1,0,0
+761,Law Abiding Citizen,109,34.0,73340000.0,0,0,0
+762,Harry Potter and the Deathly Hallows: Part 2,130,87.0,380960000.0,26,0,1
+763,The Muppets,103,75.0,88630000.0,11,0,1
+764,Ouija,89,38.0,50820000.0,0,0,0
+765,Gran Torino,116,72.0,148090000.0,5,1,0
+766,The Milk of Sorrow,94,68.0,10000.0,0,0,1
+767,Moneyball,133,87.0,75610000.0,26,4,1
+768,The Lone Ranger,150,37.0,89290000.0,0,0,1
+769,Doctor Strange,115,72.0,231910330.0,16,0,1
+770,Hereafter,129,56.0,32740000.0,0,0,1
+771,Lawless,116,58.0,37400000.0,1,0,0
+772,Cars 2,106,57.0,191450000.0,3,1,0
+773,Leap Year,100,33.0,10000.0,0,0,0
+774,Brave,93,69.0,237280000.0,11,1,1
+775,Limitless,105,59.0,79240000.0,2,0,0
+776,Resident Evil: Afterlife,97,37.0,60130000.0,1,0,0
+777,I Am Love,120,79.0,5000000.0,7,1,1
+778,In the Loop,106,83.0,2380000.0,17,0,1
+779,Iron Man 2,124,57.0,312060000.0,4,0,1
+780,Mission: Impossible - Ghost Protocol,133,73.0,209360000.0,3,0,0
+781,Outside the Law,138,59.0,,0,0,1
+782,Jane Eyre,120,76.0,11230000.0,5,0,1
+783,It's Complicated,120,57.0,112700000.0,6,3,0
+784,21 Jump Street,110,69.0,138450000.0,3,0,0
+785,A Prophet,155,90.0,2080000.0,13,1,1
+786,Chico & Rita,94,76.0,250000.0,0,0,1
+787,We Need to Talk About Kevin,112,68.0,1740000.0,20,1,0
+788,This Is the End,107,67.0,101470000.0,2,0,0
+789,RED,111,60.0,90360000.0,2,1,0
+790,Kick-Ass,117,66.0,48040000.0,4,0,0
+791,300: Rise of an Empire,102,48.0,106370000.0,0,0,0
+792,Immortals,110,46.0,83500000.0,0,0,0
+793,Incendies,130,80.0,6860000.0,4,0,1
+794,The Cabin in the Woods,95,72.0,42040000.0,6,0,0
+795,The Twilight Saga: New Moon,130,44.0,296620000.0,2,0,0
+796,Sex and the City 2,146,27.0,95330000.0,1,0,0
+797,Crazy Heart,112,83.0,39462438.0,20,2,1
+798,Hercules,98,47.0,72660000.0,0,0,0
+799,X-Men: First Class,132,65.0,146410000.0,5,0,0
+800,The Tempest,110,43.0,260000.0,1,0,1
+801,Looper,119,84.0,66470000.0,12,0,0
+802,A Royal Affair,137,73.0,1550000.0,3,1,1
+803,Easy A,92,72.0,58400000.0,10,1,0
+804,The Social Network,120,95.0,96920000.0,71,6,1
+805,Teenage Mutant Ninja Turtles,101,31.0,190870000.0,0,0,0
+806,Warrior,140,71.0,13650000.0,5,0,1
+807,Pirates of the Caribbean: On Stranger Tides,136,45.0,241060000.0,5,0,0
+808,Iron Man 3,130,62.0,408990000.0,10,0,1
+809,Kung Fu Panda 2,90,67.0,165230000.0,7,0,1
+810,The Secret in Their Eyes,129,80.0,20170000.0,3,0,1
+811,50/50,100,72.0,34960000.0,6,2,0
+812,Animal Kingdom,113,83.0,1040000.0,10,1,1
+813,A Single Man,99,77.0,9170000.0,20,3,1
+814,Rise of the Planet of the Apes,105,68.0,176740000.0,6,0,1
+815,Gangster Squad,113,40.0,46000000.0,0,0,0
+816,August: Osage County,121,58.0,37740000.0,15,2,1
+817,Despicable Me,95,72.0,251500000.0,8,1,0
+818,The Twilight Saga: Breaking Dawn - Part 1,117,45.0,281280000.0,2,0,0
+819,The Twilight Saga: Eclipse,124,58.0,300520000.0,5,0,0
+820,Movie 43,94,18.0,8830000.0,0,0,0
+821,Never Let Me Go,103,69.0,2410000.0,1,0,0
+822,Guy and Madeline on a Park Bench,82,84.0,30000.0,0,0,0
+823,In a Better World,119,65.0,1010000.0,1,1,1
+824,Terminator Genisys,126,38.0,89730000.0,0,0,0
+825,Tinker Tailor Soldier Spy,122,85.0,24100000.0,29,0,1
+826,The Great Gatsby,143,55.0,144810000.0,14,0,1
+827,Dredd,95,59.0,13400000.0,0,0,0
+828,The Dark Knight Rises,164,78.0,448130000.0,23,0,0
+829,Jack the Giant Slayer,114,51.0,65170000.0,0,0,0
+830,If I Stay,107,46.0,50460000.0,1,0,0
+831,Passengers,116,41.0,90870000.0,1,0,1
+832,Black Mass,123,68.0,62560000.0,6,0,0
+833,Cloud Atlas,172,55.0,27100000.0,13,1,0
+834,Inception,148,74.0,292570000.0,60,4,1
+835,Grown Ups,102,30.0,162000000.0,1,0,0
+836,Dogtooth,94,73.0,110000.0,3,0,1
+837,The Other Guys,107,64.0,119220000.0,1,0,0
+838,Suicide Squad,123,40.0,325020000.0,4,0,1
+839,Total Recall,118,43.0,58880000.0,1,0,0
+840,We Bought a Zoo,124,58.0,75620000.0,0,0,0
+841,In the Heart of the Sea,122,47.0,24990000.0,0,0,0
+842,The Hunger Games,142,68.0,408000000.0,13,1,0
+843,Mad Max: Fury Road,120,90.0,153630000.0,73,2,1
+844,Prisoners,153,74.0,60960000.0,4,0,1
+845,Journey 2: The Mysterious Island,94,41.0,103810000.0,0,0,0
+846,Straight Outta Compton,147,72.0,161030000.0,8,0,1
+847,Transformers: Dark of the Moon,154,42.0,352360000.0,7,0,1
+848,Winter's Bone,100,90.0,6531491.0,18,1,1
+849,True Grit,110,80.0,171030000.0,53,0,1
+850,Remember Me,113,40.0,19060000.0,0,0,0
+851,Star Trek Into Darkness,132,72.0,228760000.0,11,0,1
+852,No Strings Attached,108,50.0,70630000.0,0,0,0
+853,In Darkness,145,74.0,1040000.0,1,0,1
+854,Barney's Version,134,67.0,7500000.0,3,1,1
+855,Predators,107,51.0,52000000.0,0,0,0
+856,Hansel & Gretel: Witch Hunters,88,21.0,55680000.0,1,0,0
+857,The Pirates! Band of Misfits,88,,31050000.0,0,0,1
+858,Deadpool,108,65.0,363020000.0,15,2,0
+859,Another Year,129,80.0,3210000.0,11,0,1
+860,Rio,96,63.0,143620000.0,2,0,1
+861,Battleship,131,41.0,65170000.0,0,0,0
+862,Under the Skin,108,78.0,2610000.0,17,0,0
+863,Footnote,107,82.0,2010000.0,1,0,1
+864,Prometheus,124,65.0,126460000.0,4,0,1
+865,The Help,146,62.0,169710000.0,44,5,1
+866,Gravity,91,96.0,274080000.0,72,4,1
+867,The Conjuring,112,68.0,137390000.0,4,0,0
+868,The Grandmaster,130,73.0,6590000.0,4,0,1
+869,I Am Number Four,109,36.0,55090000.0,1,0,0
+870,Bridesmaids,125,75.0,169080000.0,24,2,1
+871,Oblivion,124,54.0,89020000.0,1,0,0
+872,The Greatest Showman,105,48.0,126530000.0,6,3,1
+873,The Change-Up,112,39.0,37040000.0,0,0,0
+874,The Lego Movie,100,83.0,257760000.0,21,1,1
+875,Underworld: Awakening,88,39.0,62320000.0,0,0,0
+876,Horrible Bosses,98,57.0,117530000.0,1,0,0
+877,The King's Speech,118,88.0,138800000.0,73,7,1
+878,Sherlock Holmes: A Game of Shadows,129,48.0,186830000.0,0,0,0
+879,Anonymous,130,50.0,4460000.0,2,0,1
+880,Exodus: Gods and Kings,150,52.0,65010000.0,0,0,0
+881,Daddy's Home,96,42.0,150320000.0,0,0,0
+882,Beginners,105,81.0,5780000.0,11,1,1
+883,Elysium,109,61.0,93050000.0,1,0,0
+884,Captain Phillips,134,83.0,107100000.0,49,4,1
+885,W.E.,119,37.0,580000.0,3,2,1
+886,The Mortal Instruments: City of Bones,130,33.0,31170000.0,0,0,0
+887,127 Hours,94,82.0,18330000.0,44,3,1
+888,Another Earth,92,66.0,1320000.0,0,0,0
+889,A Better Life,98,64.0,1750000.0,1,0,1
+890,Country Strong,117,45.0,20220000.0,2,1,1
+891,Beautiful Creatures,124,52.0,19450000.0,1,0,0
+892,The Master,144,86.0,16380000.0,58,3,1
+893,One Day,107,48.0,13770000.0,0,0,0
+894,Just Go with It,117,33.0,103030000.0,0,0,0
+895,The Girl with the Dragon Tattoo,158,71.0,102520000.0,23,2,1
+896,War Horse,146,72.0,79883359.0,23,2,1
+897,"Crazy, Stupid, Love.",118,68.0,84240000.0,4,1,0
+898,Maleficent,97,56.0,241410000.0,8,0,1
+899,Warm Bodies,98,59.0,66360000.0,0,0,0
+900,Insidious,103,52.0,53990000.0,0,0,0
+901,Fast Five,131,67.0,209810000.0,2,0,0
+902,This Means War,103,31.0,54760000.0,0,0,0
+903,The Big Short,130,81.0,70240000.0,32,4,1
+904,The Drop,106,69.0,10720000.0,1,0,0
+905,Albert Nobbs,113,57.0,3010000.0,12,3,1
+906,Amour,127,94.0,225377.0,30,1,1
+907,Midnight in Paris,94,81.0,56820000.0,20,4,1
+908,The Vow,104,43.0,125010000.0,2,0,0
+909,Kon-Tiki,118,62.0,1510000.0,1,1,1
+910,Savages,131,59.0,47310000.0,0,0,0
+911,Margin Call,107,76.0,5350000.0,3,0,1
+912,Jupiter Ascending,127,40.0,47380000.0,1,0,0
+913,Jackie,100,81.0,9250000.0,37,1,1
+914,ParaNorman,92,72.0,55990000.0,9,0,1
+915,Edge of Tomorrow,113,71.0,100190000.0,9,0,0
+916,Friends with Benefits,109,63.0,55800000.0,1,0,0
+917,Project X,88,48.0,54720000.0,0,0,0
+918,In Time,109,53.0,37550000.0,0,0,0
+919,Ted,106,62.0,218630000.0,8,0,1
+920,The Man from U.N.C.L.E.,116,56.0,45430000.0,0,0,0
+921,How to Train Your Dragon 2,102,76.0,177000000.0,12,1,1
+922,The Impossible,114,73.0,19000000.0,12,1,1
+923,Super 8,112,72.0,126980000.0,8,0,0
+924,Kick-Ass 2,103,41.0,28750000.0,0,0,0
+925,My Week with Marilyn,99,65.0,14600000.0,29,3,1
+926,The Age of Adaline,112,51.0,42480000.0,1,0,0
+927,The Artist,100,89.0,44667095.0,72,6,1
+928,The Perks of Being a Wallflower,102,67.0,17740000.0,12,0,0
+929,Cinderella,105,67.0,201150000.0,8,0,1
+930,The Revenant,156,76.0,183640000.0,53,4,1
+931,Pacific Rim,131,64.0,101790000.0,8,0,0
+932,Mirror Mirror,106,46.0,64930000.0,3,0,1
+933,Now You See Me,115,50.0,117700000.0,1,0,0
+934,The Twilight Saga: Breaking Dawn - Part 2,115,52.0,292300000.0,3,0,0
+935,A Cat in Paris,70,63.0,290000.0,0,0,1
+936,Trolls,92,56.0,151290000.0,7,1,1
+937,Vampire Academy,104,30.0,7790000.0,0,0,0
+938,Despicable Me 2,98,62.0,368050000.0,12,1,1
+939,The Invisible Woman,111,75.0,1230000.0,1,0,1
+940,Snowpiercer,126,84.0,4560000.0,10,0,0
+941,Les Misérables,158,63.0,148780000.0,63,4,1
+942,We're the Millers,110,44.0,150370000.0,2,0,0
+943,Ender's Game,114,51.0,61660000.0,1,0,0
+944,Snow White and the Huntsman,127,57.0,155110000.0,5,0,1
+945,Secret in Their Eyes,111,45.0,,0,0,0
+946,Moonrise Kingdom,94,84.0,45510000.0,35,1,1
+947,Like Crazy,86,71.0,3390000.0,3,0,0
+948,This Is 40,134,59.0,67520000.0,4,0,0
+949,The First Time,95,55.0,17061.0,0,0,0
+950,Wreck-It Ralph,101,72.0,189410000.0,12,1,1
+951,Anna Karenina,129,63.0,12800000.0,16,1,1
+952,The Maze Runner,113,57.0,102410000.0,1,0,0
+953,Zero Dark Thirty,157,95.0,95720000.0,55,4,1
+954,Inherent Vice,148,81.0,8090000.0,21,1,1
+955,Southpaw,124,57.0,52420000.0,0,0,0
+956,Her,126,90.0,25560000.0,43,3,1
+957,American Hustle,138,90.0,150120000.0,67,7,1
+958,Unbroken,137,59.0,115600000.0,7,0,1
+959,Ernest & Celestine,80,86.0,70000.0,2,0,1
+960,The Place Beyond the Pines,140,68.0,21380000.0,0,0,0
+961,War Witch,90,84.0,40000.0,0,0,1
+962,Nebraska,115,,17613460.0,43,5,1
+963,Bullhead,129,68.0,40000.0,0,0,1
+964,A Separation,123,95.0,7100000.0,17,1,1
+965,Divergent,139,48.0,150830000.0,3,0,0
+966,Captain America: The Winter Soldier,136,70.0,259750000.0,7,0,1
+967,Django Unchained,165,81.0,162800000.0,27,5,1
+968,Percy Jackson: Sea of Monsters,106,39.0,68560000.0,1,0,0
+969,End of Watch,109,68.0,40980000.0,1,0,0
+970,Resident Evil: Retribution,96,39.0,42350000.0,0,0,0
+971,Blade Runner 2049,164,81.0,92040000.0,31,0,1
+972,Deepwater Horizon,107,68.0,61280000.0,2,0,1
+973,Song of the Sea,93,85.0,850000.0,0,0,1
+974,The Sessions,95,79.0,6000000.0,12,2,1
+975,The Amazing Spider-Man 2,142,53.0,202850000.0,2,0,0
+976,The Judge,141,48.0,47110000.0,4,1,1
+977,X-Men: Days of Future Past,132,74.0,233910000.0,8,0,1
+978,Spotlight,128,93.0,44990000.0,51,3,1
+979,Fast & Furious 6,130,61.0,238670000.0,3,0,0
+980,Flight,138,76.0,93750000.0,7,1,1
+981,Magic Mike,110,72.0,113710000.0,3,0,0
+982,Mud,130,76.0,21590000.0,4,0,0
+983,Miss Peregrine's Home for Peculiar Children,127,57.0,87080000.0,1,0,0
+984,The Hunger Games: Catching Fire,146,76.0,424650000.0,11,1,0
+985,The Hunger Games: Mockingjay - Part 1,123,64.0,337100000.0,5,1,0
+986,The Hunger Games: Mockingjay - Part 2,137,65.0,281670000.0,2,0,0
+987,Sex Tape,94,36.0,38540000.0,0,0,0
+988,Rush,123,75.0,26900000.0,18,2,0
+989,Begin Again,104,62.0,16170000.0,4,0,1
+990,Thor: The Dark World,112,54.0,206360000.0,1,0,0
+991,Pitch Perfect,112,66.0,65000000.0,4,0,0
+992,Alone Yet Not Alone,103,,670000.0,0,0,1
+993,Monsieur Lazhar,94,82.0,2010000.0,0,0,1
+994,The Wind Rises,126,83.0,5200000.0,13,1,1
+995,Guardians of the Galaxy,121,76.0,333130000.0,23,0,1
+996,All Is Lost,106,87.0,6260000.0,6,2,1
+997,The Broken Circle Breakdown,111,71.0,30000.0,1,0,1
+998,12 Years a Slave,134,96.0,56670000.0,100,7,1
+999,The Great Wall,103,48.0,,0,0,0
+1000,Inside Llewyn Davis,104,92.0,13210000.0,38,3,1
+1001,Point Break,114,34.0,28770000.0,0,0,0
+1002,No,118,81.0,2340000.0,0,0,1
+1003,Steve Jobs,122,82.0,17750000.0,33,4,1
+1004,The Imitation Game,114,73.0,91120000.0,45,5,1
+1005,Assassin's Creed,115,36.0,51200000.0,0,0,0
+1006,Inside Out,95,94.0,356450000.0,34,1,1
+1007,Spring Breakers,94,63.0,14120000.0,3,0,0
+1008,Dawn of the Planet of the Apes,130,79.0,208540000.0,8,0,1
+1009,The Hunt,115,76.0,610000.0,7,1,1
+1010,Transformers: Age of Extinction,165,32.0,245430000.0,1,0,0
+1011,The 100 Year-Old Man Who Climbed Out the Window and Disappeared,114,58.0,940000.0,0,0,1
+1012,Hacksaw Ridge,139,71.0,65090000.0,32,3,1
+1013,Beasts of the Southern Wild,93,86.0,12784397.0,25,0,1
+1014,Saving Mr. Banks,125,65.0,83300000.0,22,1,1
+1015,The Accountant,128,51.0,86200000.0,0,0,0
+1016,American Sniper,133,72.0,350120000.0,18,0,1
+1017,Into the Woods,125,69.0,128000000.0,22,3,1
+1018,The Purge,85,41.0,64420000.0,0,0,0
+1019,Grown Ups 2,101,19.0,133670000.0,1,0,0
+1020,The Other Woman,109,39.0,83910000.0,1,0,0
+1021,Before Midnight,109,94.0,8110000.0,12,1,1
+1022,Big Hero 6,102,74.0,222490000.0,10,1,1
+1023,Gone Girl,149,79.0,167740000.0,39,4,1
+1024,The Grand Budapest Hotel,99,88.0,59070000.0,73,4,1
+1025,Love the Coopers,107,31.0,26280000.0,0,0,0
+1026,Frozen,102,74.0,400740000.0,22,2,1
+1027,Olympus Has Fallen,119,41.0,98900000.0,0,0,0
+1028,Mandela: Long Walk to Freedom,141,60.0,8320000.0,7,3,1
+1029,Wild,115,76.0,37880000.0,12,1,1
+1030,The Hobbit: The Battle of the Five Armies,144,59.0,255110000.0,12,0,1
+1031,Fifty Shades of Grey,125,46.0,166150000.0,3,1,1
+1032,The Expendables 3,126,35.0,39290000.0,0,0,0
+1033,Blue Jasmine,98,78.0,33404871.0,27,2,1
+1034,White House Down,131,52.0,73100000.0,1,0,0
+1035,The Great Beauty,141,86.0,2840000.0,11,1,1
+1036,Live by Night,129,48.0,5610000.0,1,0,0
+1037,The Intern,121,51.0,75270000.0,1,0,0
+1038,Spectre,148,60.0,200070000.0,7,1,1
+1039,Coco,105,81.0,202700000.0,19,2,1
+1040,Brooklyn,117,87.0,38317535.0,37,1,1
+1041,Mission: Impossible - Rogue Nation,131,75.0,195000000.0,8,0,0
+1042,Focus,105,56.0,53850000.0,0,0,0
+1043,Keeping Up with the Joneses,105,34.0,14900000.0,0,0,0
+1044,Avengers: Age of Ultron,141,66.0,458990000.0,1,0,0
+1045,Mudbound,134,85.0,,19,2,1
+1046,The Invitation,100,74.0,230000.0,0,0,0
+1047,Anomalisa,90,88.0,3440000.0,16,1,1
+1048,The November Man,108,38.0,24980000.0,0,0,0
+1049,Carol,118,95.0,250000.0,69,5,1
+1050,The Green Inferno,100,38.0,7190000.0,0,0,0
+1051,The Family,111,42.0,36920000.0,0,0,0
+1052,The Magnificent Seven,133,54.0,93380000.0,0,0,0
+1053,Philomena,98,77.0,37707719.0,21,3,1
+1054,Joy,124,56.0,56440000.0,9,2,1
+1055,Mr. Turner,150,94.0,3960000.0,20,0,1
+1056,Star Wars: The Force Awakens,136,81.0,936630000.0,23,0,1
+1057,Burnt,101,42.0,13650000.0,0,0,0
+1058,Star Wars: The Last Jedi,152,85.0,610800000.0,11,0,1
+1059,Arrival,116,81.0,94130000.0,59,2,1
+1060,Wonder,113,66.0,130560000.0,6,0,1
+1061,The Light Between Oceans,133,60.0,12530000.0,0,0,0
+1062,A Million Ways to Die in the West,116,44.0,42620000.0,0,0,0
+1063,Birdman or (The Unexpected Virtue of Ignorance),119,88.0,42340000.0,87,7,1
+1064,The Tale of the Princess Kaguya,137,89.0,700000.0,8,0,1
+1065,Hell or High Water,102,88.0,26860000.0,30,3,1
+1066,Whiplash,107,88.0,13090000.0,34,1,1
+1067,The Fault in Our Stars,126,69.0,124870000.0,4,0,0
+1068,Star Trek Beyond,122,68.0,158804470.0,2,0,1
+1069,Fences,139,78.0,43130000.0,27,2,1
+1070,Locke,85,81.0,1360000.0,2,0,0
+1071,The Secret Life of Pets,87,61.0,368310000.0,3,0,0
+1072,Fury,134,64.0,85710000.0,5,0,0
+1073,Ida,82,91.0,3830000.0,17,1,1
+1074,Everest,121,64.0,43250000.0,1,0,0
+1075,"Two Days, One Night",95,89.0,1330000.0,0,0,0
+1076,Beauty and the Beast,129,65.0,504010000.0,10,0,1
+1077,The Interview,112,52.0,6110000.0,0,0,0
+1078,Kingsman: The Secret Service,129,58.0,128250000.0,2,0,0
+1079,Leviathan,140,92.0,,7,1,1
+1080,Furious 7,137,67.0,350030000.0,11,1,0
+1081,Pitch Perfect 2,115,63.0,183440000.0,2,0,0
+1082,Omar,96,75.0,,0,0,1
+1083,Nightcrawler,117,76.0,32280000.0,37,1,1
+1084,Shaun the Sheep Movie,85,81.0,19370000.0,11,1,1
+1085,Chef,114,68.0,31240000.0,1,0,0
+1086,John Wick,101,68.0,43000000.0,0,0,0
+1087,A Most Violent Year,125,79.0,5750000.0,9,1,0
+1088,Zootopia,108,78.0,341260000.0,16,1,1
+1089,Batman v Superman: Dawn of Justice,151,44.0,330250000.0,2,0,0
+1090,The Theory of Everything,123,72.0,35887263.0,37,4,1
+1091,Tangerines,87,73.0,110000.0,1,1,1
+1092,Wild Tales,122,77.0,3080000.0,2,0,1
+1093,The Jungle Book,106,77.0,364000000.0,12,0,1
+1094,Inferno,121,42.0,34260000.0,0,0,0
+1095,Bad Grandpa,92,54.0,101980000.0,0,0,1
+1096,Hardcore Henry,96,51.0,9240000.0,0,0,0
+1097,Creed,133,82.0,109710000.0,12,1,1
+1098,Spy,119,75.0,110820000.0,7,2,0
+1099,Monster Trucks,105,42.0,14170000.0,0,0,0
+1100,Beyond the Lights,116,73.0,14610000.0,0,0,1
+1101,Room,118,86.0,14680000.0,35,3,1
+1102,Theeb,100,80.0,280000.0,2,0,1
+1103,Boy and the World,80,80.0,50000.0,0,0,1
+1104,Fantastic Beasts and Where to Find Them,133,66.0,229180000.0,13,0,1
+1105,Trumbo,124,60.0,,13,2,1
+1106,It Follows,100,83.0,14670000.0,3,0,0
+1107,Sully,96,74.0,125030000.0,7,0,1
+1108,The Autopsy of Jane Doe,86,63.0,,0,0,0
+1109,Youth,124,64.0,2700000.0,7,2,1
+1110,Logan,137,77.0,226280000.0,15,0,1
+1111,Still Alice,101,72.0,18656400.0,9,1,1
+1112,Jack Reacher: Never Go Back,118,47.0,58400000.0,0,0,0
+1113,Sicario,121,82.0,46880000.0,32,0,1
+1114,When Marnie Was There,103,72.0,400000.0,1,0,1
+1115,Timbuktu,97,92.0,1070000.0,3,0,1
+1116,A Monster Calls,108,76.0,2170000.0,7,0,0
+1117,What We Do in the Shadows,86,76.0,3330000.0,2,0,0
+1118,War for the Planet of the Apes,140,82.0,146880000.0,8,0,1
+1119,The Hateful Eight,187,68.0,54120000.0,25,3,1
+1120,The Lobster,119,82.0,8699235.0,13,1,1
+1121,Sing,108,59.0,238240000.0,3,2,0
+1122,Captain America: Civil War,147,75.0,408080000.0,6,0,0
+1123,The Disaster Artist,104,76.0,20910000.0,17,2,1
+1124,Moana,107,81.0,233410000.0,11,2,1
+1125,45 Years,91,94.0,4250000.0,11,0,1
+1126,Captain Fantastic,118,72.0,5880000.0,6,1,1
+1127,The Visit,94,55.0,65070000.0,1,0,0
+1128,Legend,132,55.0,1870000.0,2,0,0
+1129,Knock Knock,99,53.0,30000.0,0,0,0
+1130,The Girl on the Train,112,48.0,75310000.0,4,0,0
+1131,Allied,124,60.0,39800000.0,2,0,1
+1132,The Martian,144,80.0,228430000.0,47,3,1
+1133,Bridge of Spies,142,81.0,72310000.0,33,1,1
+1134,Elle,130,89.0,,15,2,1
+1135,Underworld: Blood Wars,91,22.0,23930000.0,0,0,0
+1136,Kong: Skull Island,118,62.0,168050000.0,0,0,1
+1137,Lion,118,69.0,9870000.0,30,4,1
+1138,Rogue One: A Star Wars Story,133,65.0,501900000.0,6,0,1
+1139,La La Land,128,93.0,77300000.0,89,7,1
+1140,Son of Saul,107,89.0,1780000.0,16,1,1
+1141,A War,115,81.0,120000.0,0,0,1
+1142,Land of Mine,100,76.0,,0,0,1
+1143,Baby Driver,112,86.0,107830000.0,11,1,1
+1144,Guardians of the Galaxy Vol. 2,136,67.0,389810000.0,2,0,1
+1145,Mustang,97,83.0,840000.0,7,1,1
+1146,Manchester by the Sea,137,96.0,35160000.0,71,5,1
+1147,Green Room,95,79.0,3220000.0,0,0,0
+1148,A Man Called Ove,116,69.0,54608.0,0,0,1
+1149,Florence Foster Jenkins,111,71.0,27370107.0,17,4,1
+1150,13 Hours,144,48.0,52822418.0,0,0,1
+1151,Molly's Game,140,71.0,25900000.0,12,2,1
+1152,Tanna,100,74.0,10000.0,0,0,1
+1153,The Witch,92,83.0,25140000.0,7,0,0
+1154,Embrace of the Serpent,125,82.0,1320000.0,0,0,1
+1155,Kubo and the Two Strings,101,83.0,48019281.0,10,1,1
+1156,20th Century Women,119,83.0,130467.0,10,2,1
+1157,Why Him?,111,39.0,51830000.0,0,0,0
+1158,The Girl with All the Gifts,111,69.0,,4,0,0
+1159,Nocturnal Animals,116,67.0,10430000.0,40,3,1
+1160,Darkest Hour,125,75.0,45200000.0,24,1,1
+1161,Patriots Day,133,69.0,14680000.0,0,0,0
+1162,Loving,123,79.0,159615.0,14,2,1
+1163,Collateral Beauty,97,23.0,29850000.0,2,0,0
+1164,Hidden Figures,127,74.0,61890000.0,23,2,1
+1165,Lady Bird,94,94.0,41610000.0,51,4,1
+1166,Split,117,76.0,,1,0,0
+1167,Moonlight,111,99.0,11480000.0,79,6,1
+1168,Dunkirk,106,94.0,188370000.0,43,3,1
+1169,"Three Billboards Outside Ebbing, Missouri",115,88.0,37250000.0,57,6,1
+1170,Get Out,104,84.0,175850000.0,46,2,1
+1171,Jim: The James Foley Story,111,73.0,,0,0,1
+1172,All the Money in the World,132,72.0,24530000.0,4,3,1
+1173,Marshall,118,66.0,10050000.0,2,0,1
+1174,The Big Sick,120,86.0,42870000.0,21,0,1
+1175,"I, Tonya",120,77.0,18900000.0,36,3,1
+1176,The Shape of Water,123,86.0,37900000.0,81,7,1
+1177,The Florida Project,111,92.0,5660000.0,23,1,1
+1178,Call Me by Your Name,132,93.0,11300000.0,55,3,1
+1179,Phantom Thread,130,90.0,10710000.0,30,2,1
+1180,Victoria & Abdul,111,58.0,22250000.0,5,1,1
+1181,"Roman J. Israel, Esq.",122,58.0,11940000.0,2,1,1
+1182,The Post,116,83.0,58790000.0,22,6,1
