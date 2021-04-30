@@ -4,12 +4,12 @@ This project focused on predicting whether a movie will be oscar nominated based
 ![Screen Shot 2021-03-30 at 5 29 45 PM](https://github.com/eenabow/oscar_nominations/blob/b5f18564e824b8558795b13f25b057d74796e60b/ML_tests/xgbmodel2_importantfeatures.png)
 
 # Accuracy Ratings
-XGBoost Model 3: 86.62%
-Logistic Classification with Gridsearch CV: 86.76%
-Random Forest - Randomizedsearch CV (60 fits) best fit: 87.16%
-XGBoost Model 1 - 87.26%
-XGBoost Model 4: 88.22%
-XGBoost Model 2: 88.85% 
+XGBoost Model 3: 86.62%  
+Logistic Classification with Gridsearch CV: 86.76%  
+Random Forest - Randomizedsearch CV (60 fits) best fit: 87.16%  
+XGBoost Model 1 - 87.26%  
+XGBoost Model 4: 88.22%  
+XGBoost Model 2: 88.85%   
 
 
 # Feature Importances in order (Most Accurate Model) : 
