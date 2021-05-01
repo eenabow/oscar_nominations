@@ -2,69 +2,149 @@
 <html lang="en">
 
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/solar/bootstrap.min.css">
-    <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/solar/bootstrap.min.css">
+  <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 
 <body>
-    <!-- <h1>Price Per Ticket</h1>
+  <!-- Outcome variable? -->
+  <!-- <h1>Price Per Ticket</h1>
     <h1>{{pricePerTicket}}</h1> -->
-    <div class="container-fluid">
-        <div class="jumbotron">
-            <h1 class="display-3">Machine Learning Project: Oscar Nominations</h1>
-            <p class="lead">Creating machine learning model using past movie data to predict whether movies would receive oscar nominations.</p>
-            <hr class="my-4">
-            <p>Take a deeper dive into our process by visiting our repository.</p>
-            <p class="lead">
-            <a class="btn btn-primary btn-lg" href="https://github.com/eenabow/oscar_nominations.git" role="button">Learn more</a>
-            </p>
-        </div>
-        <!-- <form>
-            <fieldset>
-            <legend>What are the chances of your favorite movie receiving an Oscar nomination?</legend>
+
+  <!-- Header -->
+  <div class="container-fluid">
+    <div class="jumbotron">
+      <h1 class="display-3">Machine Learning Project: Oscar Nominations</h1>
+      <p class="lead">Creating a machine learning model using past movie data to predict whether a movie would receive
+        be Oscars nominated. Please visit <a href="www.imdb.com">the official IMDB wepage</a> and search the movie to
+        complete the fields below. </p>
+      <hr class="my-4">
+      <p>Take a deeper dive into our process by visiting our repository.</p>
+      <p class="lead">
+        <a class="btn btn-primary btn-lg" href="https://github.com/eenabow/oscar_nominations.git" role="button">Learn
+          more</a>
+      </p>
+    </div>
+
+    <!-- User input form -->
+    <div class="container">
+      <div class="row row-cols-2">
+        <div class="col-6"></div>
+
+        <form>
+          <fieldset>
             <div class="form-group">
-                <label for="exampleInputMovie">Movie Title</label>
-                <input type="text" class="form-control" id="exampleInputMovie" placeholder="Enter movie title">
+              <label for="exampleInputDuration">Duration</label>
+              <input type="number" class="form-control" id="exampleInputDuration" placeholder="Length of Movie (mins)">
             </div>
             <div class="form-group">
-                <label for="exampleInputDuration">Duration</label>
-                <input type="number" class="form-control" id="exampleInputDuration" placeholder="Length of Movie (mins)">
+              <label for="exampleInputMetascore">Metascore</label>
+              <input type="number" class="form-control" id="exampleInputMetascore" placeholder="Ex. 55.0">
             </div>
             <div class="form-group">
-                <label for="exampleInputMetascore">Metascore</label>
-                <input type="number" class="form-control" id="exampleInputMetascore" placeholder="Ex. 55.0">
+              <label for="exampleInputNominations">Gross Profits</label>
+              <input type="number" class="form-control" id="exampleInputMovie" placeholder="Ex. 47100000.0">
             </div>
             <div class="form-group">
-                <label for="exampleInputNominations">Golden Globe Nominations</label>
-                <input type="number" class="form-control" id="exampleInputMovie" placeholder="How many?">
+              <label for="exampleInputNominations">Critic Reviews</label>
+              <input type="number" class="form-control" id="exampleInputMovie" placeholder="Ex. 247">
+            </div>
+            <div class="form-group">
+              <label for="exampleInputNominations">Non-Oscars Awards Won</label>
+              <input type="number" class="form-control" id="exampleInputMovie" placeholder="Ex. 27">
+            </div>
+            <div class="form-group">
+              <label for="exampleInputNominations">Popularity Score</label>
+              <input type="number" class="form-control" id="exampleInputMovie" placeholder="Ex. 1843">
+            </div>
+            <div class="form-group">
+              <label for="exampleInputNominations">Non-Oscars Award Nominations</label>
+              <input type="number" class="form-control" id="exampleInputMovie" placeholder="Ex. 72">
+            </div>
+            <div class="form-group">
+              <label for="exampleInputNominations">Golden Globe Nominations</label>
+              <input type="number" class="form-control" id="exampleInputMovie" placeholder="Ex. 12">
             </div>
             <button type="submit" class="btn btn-primary">Submit</button>
-            </fieldset>
-        </form> -->
-        <div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-            <div class="card-header">Header</div>
-            <div class="card-body">
-              <h4 class="card-title">Primary card title</h4>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            </div>
-          </div>
-          <div class="card text-white bg-secondary mb-3" style="max-width: 20rem;">
-            <div class="card-header">Header</div>
-            <div class="card-body">
-              <h4 class="card-title">Secondary card title</h4>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            </div>
-          </div>
-          <div class="card text-white bg-success mb-3" style="max-width: 20rem;">
-            <div class="card-header">Header</div>
-            <div class="card-body">
-              <h4 class="card-title">Success card title</h4>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            </div>
-          </div>
-        </div>
+          </fieldset>
+        </form>
+      </div>
     </div>
+  </div>
+  <br>
+  <!--Outcome -->
+  <div class="container">
+    <div class="card text-white bg-success mb-3 text-center" style="max-width: 100%;"><br>
+      <div class="card-body">
+        <h2 class="card-title text-center" id="success_or_fail" >YES or NO</h2>
+        <p class="card-text text-center">This outcome was powered by an 88.85% Accurate XGBoost Machine Learning Model</p><br>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- embed Tableau carousel  -->
+
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+  
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div style="width:700px;height:600px;" class="item active">
+        <img src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_project_tableau_16198777114870&#47;AwardsNominations&#47;1_rss.png" alt="Award Nominations" style="width:700px;height:450px;">
+        <div class="carousel-caption d-none d-md-block">
+          <h3 style="color:white;">Awards Nominations</h3>
+          <p style="color:white;">As Awards Nominations increases, the likelihood of a movie being Oscar Nominated quickly approaches 100%</p>
+        </div>
+      </div>
+  
+      <div style="width:700px;height:600px;" class="item">
+        <img src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_project_tableau_16198777114870&#47;Metascore&#47;1_rss.png" alt="Metascore" style="width:700px;height:450px;">
+        <div class="carousel-caption d-none d-md-block">
+          <h3 style="color:white;">Metascore</h3>
+          <p style="color:white;">As Metascore increases, the likelihood of a movie being Oscar Nominated seems to (generally) linearly increase</p>
+        </div>
+      </div>
+  
+      <div style="width:700px;height:600px;" class="item">
+        <img src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_project_tableau_16198777114870&#47;Popularity&#47;1_rss.png" alt="Popularity" style="width:700px;height:450px;">
+        <div class="carousel-caption d-none d-md-block">
+          <h3 style="color:white;">Popularity</h3>
+          <p style="color:white;">Popularity does not appear to have a strong relationship to likelihood of an Oscar Nomination</p>
+        </div>
+      </div>
+  
+      <div style="width:700px;height:600px;" class="item">
+        <img src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_project_tableau_16198777114870&#47;Duration&#47;1_rss.png" alt="Duration" style="width:700px;height:450px;">
+        <div class="carousel-caption d-none d-md-block">
+          <h3 style="color:white;">Duration</h3>
+          <p style="color:white;">Duration does not appear to have a strong relationship to likelihood of an Oscar Nomination</p>
+        </div>
+      </div>
+  
+  
+    </div>
+  
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+
+  
 </body>
 
 </html>
