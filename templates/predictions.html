@@ -2,12 +2,69 @@
 <html lang="en">
 
 <head>
-
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/solar/bootstrap.min.css">
+    <link rel="stylesheet" href="{{url_for('static', filename='css/style.css')}}">
 </head>
 
 <body>
-    <h1>Price Per Ticket</h1>
-    <h1>{{pricePerTicket}}</h1>
+    <!-- <h1>Price Per Ticket</h1>
+    <h1>{{pricePerTicket}}</h1> -->
+    <div class="container-fluid">
+        <div class="jumbotron">
+            <h1 class="display-3">Machine Learning Project: Oscar Nominations</h1>
+            <p class="lead">Creating machine learning model using past movie data to predict whether movies would receive oscar nominations.</p>
+            <hr class="my-4">
+            <p>Take a deeper dive into our process by visiting our repository.</p>
+            <p class="lead">
+            <a class="btn btn-primary btn-lg" href="https://github.com/eenabow/oscar_nominations.git" role="button">Learn more</a>
+            </p>
+        </div>
+        <!-- <form>
+            <fieldset>
+            <legend>What are the chances of your favorite movie receiving an Oscar nomination?</legend>
+            <div class="form-group">
+                <label for="exampleInputMovie">Movie Title</label>
+                <input type="text" class="form-control" id="exampleInputMovie" placeholder="Enter movie title">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputDuration">Duration</label>
+                <input type="number" class="form-control" id="exampleInputDuration" placeholder="Length of Movie (mins)">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputMetascore">Metascore</label>
+                <input type="number" class="form-control" id="exampleInputMetascore" placeholder="Ex. 55.0">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputNominations">Golden Globe Nominations</label>
+                <input type="number" class="form-control" id="exampleInputMovie" placeholder="How many?">
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+            </fieldset>
+        </form> -->
+        <div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+            <div class="card-header">Header</div>
+            <div class="card-body">
+              <h4 class="card-title">Primary card title</h4>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            </div>
+          </div>
+          <div class="card text-white bg-secondary mb-3" style="max-width: 20rem;">
+            <div class="card-header">Header</div>
+            <div class="card-body">
+              <h4 class="card-title">Secondary card title</h4>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            </div>
+          </div>
+          <div class="card text-white bg-success mb-3" style="max-width: 20rem;">
+            <div class="card-header">Header</div>
+            <div class="card-body">
+              <h4 class="card-title">Success card title</h4>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            </div>
+          </div>
+        </div>
+    </div>
 </body>
 
 </html>
