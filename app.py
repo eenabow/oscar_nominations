@@ -1,18 +1,21 @@
 from flask import Flask, render_template
-from data import origin_dict, dest_dict, miles_dict
+# from data import origin_dict, dest_dict, miles_dict
 from joblib import load
 import pandas as pd
 
 app = Flask(__name__)
-trained_machine_learning_model = load('assets/pipeline_w_miles.joblib')
+trained_machine_learning_model = load('assets/xgb_oscars.joblib')
 
-@app.route('/')
-def home():
-    return render_template('index.html')
+# @app.route('/')
+# def home():
+#     return render_template('index.html')
 
+
+# flask forms examples - https://flask-wtf.readthedocs.io/en/stable/quickstart.html
+# flask query string parameters
 # 4/2/40/1/16
 @app.route('/generatepredictions')
-@app.route('/generatepredictions/<Quarter>/<Origin>/<Dest>/<NumTicketsOrdered>/<AirlineCompany>')
+# @app.route('/generatepredictions/<Quarter>/<Origin>/<Dest>/<NumTicketsOrdered>/<AirlineCompany>')
 def predict(Quarter, Origin, Dest, NumTicketsOrdered, AirlineCompany):
     try:
         df = pd.DataFrame({
