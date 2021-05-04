@@ -1,5 +1,7 @@
 # Project-3 - Machine Learning Oscar Nominations
-This project focused on predicting whether a movie will be oscar nominated based on multiple features from IMDB data. We ended up adding more features to fine-tune our model and see if these held any more weight than the original features chosen. Finally, we developed an flask app to connect our most successful model to a front-facing, user-friendly html page for others to predict whether a newly released film might be Oscar Nominated.   
+This project focused on predicting whether a movie will be oscar nominated based on multiple features from IMDB data. We ended up adding more features to fine-tune our model and see if these held any more weight than the original features chosen. Finally, we developed an flask app to connect our most successful model to a front-facing, user-friendly html page for others to predict whether a newly released film might be Oscar Nominated. 
+
+![Screenshot](https://github.com/eenabow/oscar_nominations/blob/main/templates/Predictions.PNG)
 
 # Accuracy Ratings
 XGBoost Model 3: 86.62%  
@@ -19,8 +21,8 @@ XGBoost Model 2: 88.85%
 * Metascore                
 * Duration (min)                 
 * Critic Reviews          
-
-
+xgbmodel2_importantfeatures.png
+![Screenshot](https://github.com/eenabow/oscar_nominations/blob/main/ML_tests/xgbmodel2_importantfeatures.PNG)
 # Process 
 * Identify data source (csv file) to clean and use for learning models. 
 * Cleaned our csv and identified features we believed would add significant weight towards our models. We created a dedicated [CSV](data/oscars_df.csv) to use for our models.
