@@ -25,8 +25,7 @@ XGBoost Model 2: 88.85%
 
 # Process 
 * Identify data source (csv file) to clean and use for learning models. 
-* [Cleaned our csv](data/Cleaning_original.ipynb)  
-* Identified features we believed would add significant weight towards our model and created a dedicated [CSV](data/oscars_df.csv) to use for our models.
+* [Cleaned our csv](data/cleaning original.ipynb) and identified features we believed would add significant weight towards our models. We created a dedicated [CSV](data/oscars_df.csv) to use for our models.
 * Created supervised learning models using [logistic classification](ML_tests/Logistic Classification.ipynb), random forest and XGBoost (decision trees) to produce the highest accuracy rating.
 * Developed an [html page](templates/predictions.html) for users to interact with our best trained model. The page has links our project repository, the IMDB website and a carousel of bar graphs highlighting the relationship between features and likelihood of an oscar nomination.
 * Created a [Flask API](app1.py) to communicate with our html page. The app returns a prediction using the XGBoost Model (2) based on user inputs.
