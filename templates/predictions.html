@@ -8,12 +8,11 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <script src="https://d3js.org/d3.v5.min.js"></script>
+
+
 </head>
 
 <body>
-  <!-- Outcome variable? -->
-  <!-- <h1>Price Per Ticket</h1>
-    <h1>{{pricePerTicket}}</h1> -->
 
   <!-- Header -->
   <div class="container-fluid">
@@ -80,8 +79,9 @@
   <div class="container">
     <div class="card text-white bg-success mb-3 text-center" style="max-width: 100%;"><br>
       <div class="card-body">
-        <h2 class="card-title text-center" id="success_or_fail" >YES or NO</h2>
-        <p class="card-text text-center">This outcome was powered by an 88.85% Accurate XGBoost Machine Learning Model</p><br>
+        <h2 class="card-title text-center" id="success_or_fail">{{yes_no}}</h2>
+        <p class="card-text text-center">This outcome was powered by an 88.85% Accurate XGBoost Machine Learning Model
+        </p><br>
       </div>
     </div>
   </div>
@@ -96,44 +96,56 @@
       <li data-target="#myCarousel" data-slide-to="1"></li>
       <li data-target="#myCarousel" data-slide-to="2"></li>
     </ol>
-  
+
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div style="width:700px;height:600px;" class="item active">
-        <img src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_project_tableau_16198777114870&#47;AwardsNominations&#47;1_rss.png" alt="Award Nominations" style="width:700px;height:450px;">
+        <img
+          src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_project_tableau_16198777114870&#47;AwardsNominations&#47;1_rss.png"
+          alt="Award Nominations" style="width:700px;height:450px;">
         <div class="carousel-caption d-none d-md-block">
           <h3 style="color:white;">Awards Nominations</h3>
-          <p style="color:white;">As Awards Nominations increases, the likelihood of a movie being Oscar Nominated quickly approaches 100%</p>
+          <p style="color:white;">As Awards Nominations increases, the likelihood of a movie being Oscar Nominated
+            quickly approaches 100%</p>
         </div>
       </div>
-  
+
       <div style="width:700px;height:600px;" class="item">
-        <img src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_project_tableau_16198777114870&#47;Metascore&#47;1_rss.png" alt="Metascore" style="width:700px;height:450px;">
+        <img
+          src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_project_tableau_16198777114870&#47;Metascore&#47;1_rss.png"
+          alt="Metascore" style="width:700px;height:450px;">
         <div class="carousel-caption d-none d-md-block">
           <h3 style="color:white;">Metascore</h3>
-          <p style="color:white;">As Metascore increases, the likelihood of a movie being Oscar Nominated seems to (generally) linearly increase</p>
+          <p style="color:white;">As Metascore increases, the likelihood of a movie being Oscar Nominated seems to
+            (generally) linearly increase</p>
         </div>
       </div>
-  
+
       <div style="width:700px;height:600px;" class="item">
-        <img src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_project_tableau_16198777114870&#47;Popularity&#47;1_rss.png" alt="Popularity" style="width:700px;height:450px;">
+        <img
+          src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_project_tableau_16198777114870&#47;Popularity&#47;1_rss.png"
+          alt="Popularity" style="width:700px;height:450px;">
         <div class="carousel-caption d-none d-md-block">
           <h3 style="color:white;">Popularity</h3>
-          <p style="color:white;">Popularity does not appear to have a strong relationship to likelihood of an Oscar Nomination</p>
+          <p style="color:white;">Popularity does not appear to have a strong relationship to likelihood of an Oscar
+            Nomination</p>
         </div>
       </div>
-  
+
       <div style="width:700px;height:600px;" class="item">
-        <img src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_project_tableau_16198777114870&#47;Duration&#47;1_rss.png" alt="Duration" style="width:700px;height:450px;">
+        <img
+          src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final_project_tableau_16198777114870&#47;Duration&#47;1_rss.png"
+          alt="Duration" style="width:700px;height:450px;">
         <div class="carousel-caption d-none d-md-block">
           <h3 style="color:white;">Duration</h3>
-          <p style="color:white;">Duration does not appear to have a strong relationship to likelihood of an Oscar Nomination</p>
+          <p style="color:white;">Duration does not appear to have a strong relationship to likelihood of an Oscar
+            Nomination</p>
         </div>
       </div>
-  
-  
+
+
     </div>
-  
+
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left"></span>
@@ -145,11 +157,12 @@
     </a>
   </div>
 
-  
-</body>
 
-<script>
-  document.querySelector("#submit").addEventListener("click", function(event) {
+
+  <!-- Event Listener Javascript to interact with flask app -->
+  <script>
+
+    document.getElementById("submit").addEventListener("click", function (event) {
       event.preventDefault();
       var duration = document.getElementById("DurationInput").value;
       var metascore = document.getElementById("MetascoreInput").value;
@@ -157,16 +170,21 @@
       var critic_reviews = document.getElementById("CriticReviewsInput").value;
       var awards_wins = document.getElementById("AwardsWinsInput").value;
       var popularity = document.getElementById("PopularityInput").value;
-      var awards_nominaitons = document.getElementById("AwardsNominationsInput").value;
+      var awards_nominations = document.getElementById("AwardsNominationsInput").value;
       var golden_globes_nominations = document.getElementById("GoldenGlobesNominationsInput").value;
 
-      // grab those values and make a request to the backend with the values as query string params
-      var url = `http://127.0.0.1:5000/generatepredictions?duration=${duration}&metascore=${metascore}&gross=${gross}&criticreviews=${critic_reviews}&awardswins=${awards_wins}&popularity=${popularity}&awardsnominations=${awards_nominaitons}&goldenglobenominations=${golden_globes_nominations}`
+      // Grab the values in the form and make a request to the backend with the values as query string params
+      var url = `http://127.0.0.1:5000/generatepredictions?duration=${duration}&metascore=${metascore}&gross=${gross}&critic_reviews=${critic_reviews}&awards_wins=${awards_wins}&popularity=${popularity}&awards_nominations=${awards_nominations}&golden_globe_nominations=${golden_globes_nominations}`
       console.log('Your url is:', url);
-      // hit that url from js, it will return your flask api's response
-      // take that response and add it to the DOM (to your HTML)
-      d3.json(url).then(function(response) {d3.select('#success_or_fail').html(response)})
-  }, false);
-</script>
+      window.location.replace(url)
+    }, false);
+
+
+
+
+  </script>
+
+
+</body>
 
 </html>
