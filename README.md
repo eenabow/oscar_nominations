@@ -21,8 +21,9 @@ XGBoost Model 2: 88.85%
 * Metascore                
 * Duration (min)                 
 * Critic Reviews          
-xgbmodel2_importantfeatures.png
-![Screenshot](https://github.com/eenabow/oscar_nominations/blob/main/ML_tests/xgbmodel2_importantfeatures.PNG)
+
+![Screenshot](https://github.com/eenabow/oscar_nominations/blob/main/ML_tests/xgbmodel2_importantfeatures.png)
+
 # Process 
 * Identify data source (csv file) to clean and use for learning models. 
 * Cleaned our csv and identified features we believed would add significant weight towards our models. We created a dedicated [CSV](data/oscars_df.csv) to use for our models.
@@ -30,7 +31,6 @@ xgbmodel2_importantfeatures.png
 * Developed an [html page](templates/predictions.html) for users to interact with our best trained model. The page has links to our project repository, the IMDB website and a carousel of bar graphs highlighting the relationship between features and likelihood of an oscar nomination.
 * Created a [Flask API](app1.py) to communicate with our html page. The app returns a prediction using the XGBoost Model (2) based on user inputs.
 
-![Screenshot](https://github.com/eenabow/oscar_nominations/blob/main/templates/Predictions.PNG)
 
 # Visuals 
 We created a carousel of bar graphs using [Tableau] to showcase some of our findings. We also used matplotlib to create horizontal bar graphs which display feature importance per model.
