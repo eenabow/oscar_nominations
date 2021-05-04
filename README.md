@@ -1,8 +1,6 @@
 # Project-3 - Machine Learning Oscar Nominations
 This project focused on predicting whether a movie will be oscar nominated based on multiple features from IMDB data. We ended up adding more features to fine-tune our model and see if these held any more weight than the original features chosen. Finally, we developed an flask app to connect our most successful model to a front-facing, user-friendly html page for others to predict whether a newly released film might be Oscar Nominated.   
 
-![Screen Shot 2021-03-30 at 5 29 45 PM](https://github.com/eenabow/oscar_nominations/blob/b5f18564e824b8558795b13f25b057d74796e60b/ML_tests/xgbmodel2_importantfeatures.png)
-
 # Accuracy Ratings
 XGBoost Model 3: 86.62%  
 Logistic Classification with Gridsearch CV: 86.76%  
