@@ -30,6 +30,8 @@ XGBoost Model 2: 88.85%
 * Developed an [html page](templates/predictions.html) for users to interact with our best trained model. The page has links to our project repository, the IMDB website and a carousel of bar graphs highlighting the relationship between features and likelihood of an oscar nomination.
 * Created a [Flask API](app1.py) to communicate with our html page. The app returns a prediction using the XGBoost Model (2) based on user inputs.
 
+![Screenshot](https://github.com/eenabow/oscar_nominations/blob/main/templates/Predictions.PNG)
+
 # Visuals 
 We created a carousel of bar graphs using [Tableau] to showcase some of our findings. We also used matplotlib to create horizontal bar graphs which display feature importance per model.
 
